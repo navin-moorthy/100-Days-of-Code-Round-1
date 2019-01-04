@@ -9,3 +9,5 @@ include:
   - log.md
   - rules.md
   - resources.md
+
+theme: jekyll-theme-leap-day
