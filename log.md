@@ -75,7 +75,7 @@ Consider I am already familiar with *Git, GitHub, Data Security Technologies and
 I imported some of my old local git files using CLI to GitHub faced some small problems but this [**link**](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 helped me to brush up *git CLI remote pull/push commands*.
 
-After some testing with my [**Template Repo**](https://navinnavi19.github.io/Collection-of-Templates/) using this [**post**](https://nicolas-van.github.io/easy-markdown-to-github-pages/) as a reference. Finally, I learned to quickly host my [**Site**] UP with github pages using Jekyll Theme by [Mattgraham](https://twitter.com/mattgraham).
+After some testing with my [**Template Repo**](https://navinnavi19.github.io/Collection-of-Templates/) using this [**post**](https://nicolas-van.github.io/easy-markdown-to-github-pages/) as a reference. Finally, I learned to quickly host my [**Site**](https://navinnavi19.github.io/100-Days-of-Code/) UP with github pages using Jekyll Theme by [Mattgraham](https://twitter.com/mattgraham).
 
 **Day 1 Overview of Images**
 
