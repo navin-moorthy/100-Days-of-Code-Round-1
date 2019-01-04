@@ -72,12 +72,15 @@ I am very excited to start the challenge [**#100DaysofCode**](https://twitter.co
 
 Consider I am already familiar with *Git, GitHub, Data Security Technologies and Basic Web Development*. As a starter I followed three github  repositories ([Kallaway](https://github.com/kallaway/100-days-of-code), [Jasondown](https://github.com/jasondown/100-days-of-code), [James-Priest](https://github.com/james-priest/100-days-of-code-log)) to created my own [**Daily Log Repo**](https://github.com/NavinNavi19/100-Days-of-Code). I did not directly fork the repo because I decided to learn the markdown language on my own. A quick **brushup of markdown** is covered in this [**Cheatsheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-I imported some of my old local git files using CLI to GitHub faced some small problems but this [link](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) was useful to brush up the git CLI remote commands.
+I imported some of my old local git files using CLI to GitHub faced some small problems but this [**link**](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+helped me to brush up *git CLI remote pull/push commands*.
 
-After some testing with my [Template Repo](https://navinnavi19.github.io/Collection-of-Templates/). Finally, I learned to quickly host my Log Repo with github pages using some random jekyll theme. I did this with reference to this [post](https://nicolas-van.github.io/easy-markdown-to-github-pages/).
+After some testing with my [**Template Repo**](https://navinnavi19.github.io/Collection-of-Templates/) using this [**post**](https://nicolas-van.github.io/easy-markdown-to-github-pages/) as a reference. Finally, I learned to quickly host my [**Site**] UP with github pages using Jekyll Theme by [Mattgraham](https://twitter.com/mattgraham).
 
-**Image of my log repo finished**
+**Day 1 Overview of Images**
 
 ![Completed Log Repo Image](images/nn-100doc-d1-1.PNG)
+
+![Completed Log Repo Site Image](images/nn-100doc-d1-2.jpg)
 
 [Table of Contents](#toc)
