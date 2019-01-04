@@ -71,6 +71,7 @@ I am very excited to start the challenge [**#100DaysofCode**](https://twitter.co
 Consider I am already familiar with *Git, GitHub, Data Security Technologies and Basic Web Development*. As a starter I followed three github  repositories ([Kallaway](https://github.com/kallaway/100-days-of-code), [Jasondown](https://github.com/jasondown/100-days-of-code), [James-Priest](https://github.com/james-priest/100-days-of-code-log)) to created my own [**Daily Log Repo**](https://github.com/NavinNavi19/100-Days-of-Code). I did not directly fork the repo because I decided to learn the markdown language on my own. A quick **brushup of markdown** is covered in this [**Cheatsheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 **Image of my log repo finished**
+
 ![Completed Log Repo Image](images/nn-100doc-d1-1.PNG)
 
 [Table of Contents](#toc)
