@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  -enabled: true
+  -collection: true
+ include:
+  - README.md
+  - FAQ.md
+  - log.md
+  - rules.md
+  - resources.md
