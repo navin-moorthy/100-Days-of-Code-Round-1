@@ -44,7 +44,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus:
 
-#### Progress:
+#### Completed:
 
 #### Link to Work:
 
@@ -56,7 +56,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 1: January-04-2019
 
-#### Today's Focus: Learn Markdown and bring up the Repo site
+#### Today's Focus: "Learn Markdown and bring up the Repo site"
 
 #### Completed: 
 + Created Own Daily Log Repo Files
