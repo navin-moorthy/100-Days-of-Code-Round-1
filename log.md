@@ -28,25 +28,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 
-<!-- ## 1.
+<a name="toc"></a>
+### Table of Contents 
+|Day|Focus|
+|:---:|:-----:|
+|[Day 1](#day-1) **04/01/18**| |
+
+<!-- ---
+
+<a name="day-1"></a>
 ### Day 1: January,10 2017 - Saturday
 
-**Project:**
+**Today's Focus:**
 
 **Progress:**
 
-**Thoughts:**
+**Link to Work:**
 
-**Link to Work:** -->
+**Thoughts:** -->
 
 ---
 
-Day 1: January,04 2019 - Saturday
+<a name="day-1"></a>
+### Day 1: January,04 2019
 
-**Project:**
+**Today's Focus:**
 
 **Progress:**
 
+**Link to Work:**
+
 **Thoughts:**
 
-**Link to Work:**
+[Table of Contents](#toc)
