@@ -41,7 +41,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-Day 1: January,10 2017 - Saturday
+Day 1: January,04 2019 - Saturday
 
 **Project:**
 
