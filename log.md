@@ -32,15 +32,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ### Table of Contents 
 
-| Day | Focus |
-|:---:|:-----:|
-|[Day 1](#day-1) **04/01/18**| Learn Markdown and bring up the Repo site |
+| Day | Focus | Day | Focus |
+|:---:|:-----:|:---:|:-----:|
+|[Day 1](#day-1) **04/01/18**| Learn Markdown and bring up the Repo site |[Day 2](#day-2) **05/01/18**| Automation In my Web Server Part 1 |
 
 <!-- ---
 
-<a name="day-1"></a>
+<a name="day-"></a>
 
-## Day 1: January-04-2019
+## Day : January--2019
 
 #### Today's Focus:
 
@@ -48,7 +48,44 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Link to Work:
 
-#### Thoughts: -->
+#### Thoughts: 
+
+[Table of Contents](#toc) -->
+
+ ---
+
+<a name="day-2"></a>
+
+## Day 2: January-05-2019
+
+#### Today's Focus: "Automation In my Web Server Part 1"
+
+#### Completed:
++ Connected to my web server via SSH using keys.
++ Added push notification via api's access token.
+
+#### Link to Work: [My Site](https://vanuss.in/)
+
+#### Thoughts:
+
+Today has been a very busy day. Early morning Cricket, no proper sleep, Outing and Buffet Treat though I managed to find two hours to code.  
+
+As per my plan, I connected to my web server with username and password using putty. But the real problem arises when I try to import keys to connect automatically without any authentication. But I managed to uploade the keys in the respective servers after 30 min of struggle. First part was done as I connected to my server using SSH successfully.
+
+Then I came across a section where it says that I can get notification in my device when any change was done to the server. For that I need to install [**PushBullet**](https://www.pushbullet.com/) to get the access token which is supported. For that I learned basics of [**API**](https://docs.pushbullet.com/) specially flavoured for [**PushBullet**](https://www.pushbullet.com/), then I had to installed [**CURL**](https://curl.haxx.se/) using [**CHOCOLATEY(Package Managers)**](https://chocolatey.org/) in my server to learn about API. 
+
+*[curl -u <your_access_token_here>: https://api.pushbullet.com/v2/users/me]*
+
+Above was the first command I learned to get the details of my API linked user details. This took me almost 20 min to find the exact code. Funny right but thats true. In the end, I found the answer in [**Stack Overflow**](https://stackoverflow.com/) as always.
+
+Finally, Added access token in my server to get the notification in my device
+
+To Do :
+- Add DNSSEC to my Hosting
+- Try to update cpanel Version and utilize all the features.
+- Generate the CSR for new Certificate for Secure connection to [**my website**](https://vanuss.in/).
+
+[Table of Contents](#toc)
 
 ---
 
