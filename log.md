@@ -35,6 +35,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | Day | Focus | Day | Focus |
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **04/01/18**| Learn Markdown and bring up the Repo site |[Day 2](#day-2) **05/01/18**| Automation In my Web Server Part 1 |
+| Day | Focus |
+|:---:|:-----:|
+|[Day 3](#day-3) **06/01/18**| Automation In my Web Server Part 2 |
 
 <!-- ---
 
@@ -51,6 +54,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+
+<a name="day-3"></a>
+
+## Day 3: January-06-2019
+
+#### Today's Focus: "Automation In my Web Server Part 2"
+
+#### Completed:
+
++ Set up custom 404 Error page built to suite my website colors. 
++ Learned a lot of bash coding in trying to fix some errors.
+
+#### Link to Work: [Custom 404 Page](https://vanuss.in/404.shtml) 
+
+#### Thoughts: 
+
+It's a Sunday, so most of the time was spent playing and shopping. As I had a prior plan, I managed to code for 2 hours. But unfortunately, I cannot upload my code to my github repo as I have been coding in my web server. First thing today, created a local git in my web server and tried to link it with [**my github account**](https://github.com/NavinNavi19), but I was unable to do it. Tried hard to find a way but I dont have enough time in the planned 2 hours to sit and waste time in this.
+
+Turns out that I dont have enough privileges to my shared web hosting server. Most of the commands were not allowed. After some retries, I gave up my goal and had to look for the alternative's whichever is possible. I was not able to update the ruby version too. The sad part is that I spent most of the time trying to update it.
+
+But finally, when i was reading the cpanel documentation to know more about my privileges to the web server, I came across a [**post**](https://support.hostgator.com/articles/cpanel/custom-error-pages) which helped me to setup [**custom error page**](https://vanuss.in/404.shtml) to my website. As I have already prepared my 404 html file before Jan. I used the post as a guide to edit .htaccess file to enter some line of the code and uploaded my hmtl file to bring up the custom error page instead of a default page which was a bad.
+
+After this, I came across a valuable post about time management techniques. [**Pomodoro Timer**](https://pomodoro-tracker.com/) for increasing the prouctivity and [**GTD**](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955)(Get Things Done) for planning the things to be done in a day. After going thorugh some videos about them, I was made to believe that this technique might increase the productivity. One more useful link - [**Hack your To do list**](https://lifehacker.com/5986867/david-allen-explains-how-to-master-your-to-do-list)
+
+To do for the next day:
+- Add DNSSEC to my Hosting
+- Find a way to fix the git errors and ssh via aws.
+- Generate the CSR for new Certificate for Secure connection to [**my website**](https://vanuss.in/).
+
+[Table of Contents](#toc)
 
  ---
 
