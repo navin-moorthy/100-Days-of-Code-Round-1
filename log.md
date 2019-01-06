@@ -35,8 +35,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | Day | Focus | Day | Focus |
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **04/01/18**| Learn Markdown and bring up the Repo site |[Day 2](#day-2) **05/01/18**| Automation In my Web Server Part 1 |
-| Day | Focus |
-|:---:|:-----:|
 |[Day 3](#day-3) **06/01/18**| Automation In my Web Server Part 2 |
 
 <!-- ---
