@@ -71,7 +71,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to Today's Notes :** [The Lab](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch/blob/master/Supporting%20Documents/The-Lab.md)
 
-Found a way to quickly edit github markdown files right from the browser using **stackedit.io**. Also used [PDF to Markdown Converter](http://pdf2md.morethan.io/) to convert some PDF files.
+Found a way to quickly edit github markdown files right from the browser using [**stackedit.io**](https://stackedit.io). Also used [PDF to Markdown Converter](http://pdf2md.morethan.io/) to convert some PDF files.
 
 [Table of Contents](#toc) 
 
@@ -177,6 +177,6 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAzOTg4NzYsMjEzNjU1MTM3MiwtMT
-kyODE1ODQyNywxMDUzNzYzOTEwXX0=
+eyJoaXN0b3J5IjpbMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LDIxMz
+Y1NTEzNzIsLTE5MjgxNTg0MjcsMTA1Mzc2MzkxMF19
 -->
