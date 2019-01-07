@@ -51,15 +51,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Thoughts: 
 
-Link to today 
-
 [Table of Contents](#toc) -->
 
 ---
 
-<a name="day-"></a>
+<a name="day-4"></a>
 
-## Day : January--2019
+## Day 4: January-07-2019
 
 #### Today's Focus:
 
@@ -68,6 +66,8 @@ Link to today
 #### Link to Work:
 
 #### Thoughts: 
+
+Linkto
 
 [Table of Contents](#toc) 
 
@@ -173,5 +173,5 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDQ1NjM1OCwxMDUzNzYzOTEwXX0=
+eyJoaXN0b3J5IjpbLTgxNTA4NTA0OCwxMDUzNzYzOTEwXX0=
 -->
