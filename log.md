@@ -154,3 +154,6 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 ![Completed Log Repo Site Image](images/nn-100doc-d1-2.jpg)
 
 [Table of Contents](#toc)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA1Mzc2MzkxMF19
+-->
