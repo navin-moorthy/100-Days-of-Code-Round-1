@@ -51,6 +51,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Thoughts: 
 
+Link to today 
+
 [Table of Contents](#toc) -->
 
 ---
@@ -171,5 +173,5 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMjQ1MjQwLDEwNTM3NjM5MTBdfQ==
+eyJoaXN0b3J5IjpbLTY4MDQ1NjM1OCwxMDUzNzYzOTEwXX0=
 -->
