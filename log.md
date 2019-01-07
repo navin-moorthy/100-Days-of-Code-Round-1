@@ -69,7 +69,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 Link to Today's Notes : https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch/blob/master/Supporting%20Documents/The-Lab.md
 
-Found a way to quickly edit github file from the browser using stackedit.io
+Found a way to quickly edit github markdown files right from the browser using **stackedit.io**. 
 
 [Table of Contents](#toc) 
 
@@ -175,5 +175,5 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODU3MjkxMiwxMDUzNzYzOTEwXX0=
+eyJoaXN0b3J5IjpbMTY4MTYwMDg3MiwxMDUzNzYzOTEwXX0=
 -->
