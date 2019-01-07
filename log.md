@@ -59,13 +59,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 4: January-07-2019
 
-#### Today's Focus: # **[Learn-Website-Hacking-Penetration-Testing-From-Scratch](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)**
+#### Today's Focus: "Learn-Website-Hacking-Penetration-Testing-From-Scratch"
 
 #### Completed:
 
  - Created the Lab
 
-#### Link to Work: https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch
+#### Link to Work: **[Learn-Website-Hacking-Penetration-Testing-From-Scratch](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)**
 
 #### Thoughts: 
 
@@ -177,5 +177,5 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0ODcyOTg5LDEwNTM3NjM5MTBdfQ==
+eyJoaXN0b3J5IjpbLTE5MjgxNTg0MjcsMTA1Mzc2MzkxMF19
 -->
