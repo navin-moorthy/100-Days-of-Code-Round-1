@@ -55,9 +55,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-<a name="day-"></a>
+<a name="day-5"></a>
 
-## Day : January--2019
+## Day 5: January-08-2019
 
 #### Today's Focus: "Virtual Lab Setup"
 
@@ -66,9 +66,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - All the Lab Machines has been upgraded to the latest version.
 - Snapshots Taken
 
-#### Link to Work: 
+#### Link to Work: [The Lab](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch/blob/master/Supporting%20Documents/The-Lab.md)
 
 #### Thoughts: 
+
+Keeweb - Free cross-platform password manager compatible with KeePass
 
 [Table of Contents](#toc)
 
@@ -196,7 +198,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTc2NzMzNywxNjEzMTY5NDYsLTExND
+eyJoaXN0b3J5IjpbLTYwMDgxNzUzNSwxNjEzMTY5NDYsLTExND
 AzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYz
 OTEwXX0=
 -->
