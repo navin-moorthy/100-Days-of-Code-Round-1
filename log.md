@@ -47,7 +47,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:
 
-- Comp
+- All the Lab  has been upgraded to the latest version.
 
 #### Link to Work:
 
@@ -195,7 +195,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjE2MjEyMywxNjEzMTY5NDYsLTExND
-AzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYz
-OTEwXX0=
+eyJoaXN0b3J5IjpbODY5ODUyNDgyLDE2MTMxNjk0NiwtMTE0MD
+M5ODg3NiwyMTM2NTUxMzcyLC0xOTI4MTU4NDI3LDEwNTM3NjM5
+MTBdfQ==
 -->
