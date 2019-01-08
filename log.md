@@ -72,7 +72,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 [Keeweb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass files and it's light weight accessible from browser. IMO this is the best password manager that I came across.
 
-Tusk
+[Tusk](https://github.com/subdavis/Tusk) - For accessing 
 
 
 [Table of Contents](#toc)
@@ -201,7 +201,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA1MjYxMjYsLTE4OTAwMDYzMTEsLT
+eyJoaXN0b3J5IjpbLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLT
 M1NzMwMjU3OSwxNjEzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1
 MTM3MiwtMTkyODE1ODQyNywxMDUzNzYzOTEwXX0=
 -->
