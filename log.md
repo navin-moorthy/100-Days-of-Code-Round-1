@@ -76,8 +76,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 Always Revisit your Google Security to revoke some of the apps access that you don't use anymore.
 
-
-
 [Table of Contents](#toc)
 
 ---
@@ -204,8 +202,8 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2OTg5NTUwLDE5NjczODY0NzQsLTEzOT
-AwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMwMjU3OSwxNjEzMTY5
-NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNy
-wxMDUzNzYzOTEwXX0=
+eyJoaXN0b3J5IjpbLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5Nj
+czODY0NzQsLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMw
+MjU3OSwxNjEzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3Mi
+wtMTkyODE1ODQyNywxMDUzNzYzOTEwXX0=
 -->
