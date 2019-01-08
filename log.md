@@ -70,7 +70,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Thoughts: 
 
-[Keeweb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass
+[Keeweb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass files and it's light weight accessible from browser. IMO this is the best password manager that I came across.
+
+
 
 
 [Table of Contents](#toc)
@@ -199,7 +201,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzMwMjU3OSwxNjEzMTY5NDYsLTExND
-AzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYz
-OTEwXX0=
+eyJoaXN0b3J5IjpbLTE4OTAwMDYzMTEsLTM1NzMwMjU3OSwxNj
+EzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1
+ODQyNywxMDUzNzYzOTEwXX0=
 -->
