@@ -66,7 +66,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - All the Lab Machines has been upgraded to the latest version.
 - Snapshots Taken
 
-#### Link to Work: #### **[Learn-Website-Hacking-Penetration-Testing-From-Scratch](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)**
+#### Link to Work: 
 
 #### Thoughts: 
 
@@ -84,11 +84,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
  - Created the Lab
 
-#### Link to Work: **[The Lab](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch/blob/master/Supporting%20Documents/The-Lab.md)**
+#### Link to Work: **[Learn-Website-Hacking-Penetration-Testing-From-Scratch](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)**
 
 #### Thoughts: 
 
- [KeeWeb](https://keeweb.info/) - Amazing Password Manager with web version 
+**Link to Today's Notes :** [The Lab](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch/blob/master/Supporting%20Documents/The-Lab.md)
+
+Found a way to quickly edit github markdown files right from the browser using [**stackedit.io**](https://stackedit.io). Also used [PDF to Markdown Converter](http://pdf2md.morethan.io/) to convert some PDF files.
 
 [Table of Contents](#toc) 
 
@@ -194,7 +196,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODY5ODMzMiwxNjEzMTY5NDYsLTExND
+eyJoaXN0b3J5IjpbMTU0NTc2NzMzNywxNjEzMTY5NDYsLTExND
 AzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYz
 OTEwXX0=
 -->
