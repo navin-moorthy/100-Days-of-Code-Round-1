@@ -72,7 +72,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 [Keeweb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass files and it's light weight accessible from browser. IMO this is the best password manager that I came across.
 
-[Tusk](https://github.com/subdavis/Tusk) - For accessing keePass files from the extension but the need for it is less as manual copy pasting .
+[Tusk](https://github.com/subdavis/Tusk) - For accessing keePass files from the extension but the need for it is less as manual copy pasting is preferred.
 
 [Table of Contents](#toc)
 
@@ -200,8 +200,8 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMxNDMwMTksLTEzOTAwNDY2NDQsLT
-E4OTAwMDYzMTEsLTM1NzMwMjU3OSwxNjEzMTY5NDYsLTExNDAz
-OTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYzOT
-EwXX0=
+eyJoaXN0b3J5IjpbMTk2NzM4NjQ3NCwtMTM5MDA0NjY0NCwtMT
+g5MDAwNjMxMSwtMzU3MzAyNTc5LDE2MTMxNjk0NiwtMTE0MDM5
+ODg3NiwyMTM2NTUxMzcyLC0xOTI4MTU4NDI3LDEwNTM3NjM5MT
+BdfQ==
 -->
