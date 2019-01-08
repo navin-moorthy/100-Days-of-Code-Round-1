@@ -76,6 +76,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 Always Revisit your Google Security to revoke some of the apps access that you don't use anymore.
 
+GitHub gave free access to Private Repositories.
+
 [Table of Contents](#toc)
 
 ---
@@ -202,8 +204,8 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5Nj
-czODY0NzQsLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMw
-MjU3OSwxNjEzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3Mi
-wtMTkyODE1ODQyNywxMDUzNzYzOTEwXX0=
+eyJoaXN0b3J5IjpbNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Nj
+k4OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2
+MzExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LD
+IxMzY1NTEzNzIsLTE5MjgxNTg0MjcsMTA1Mzc2MzkxMF19
 -->
