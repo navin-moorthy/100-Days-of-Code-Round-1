@@ -43,11 +43,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day : January--2019
 
-#### Today's Focus: "Virtual Lab Setup"
+#### Today's Focus: 
 
 #### Completed:
-
-- All the Lab  has been upgraded to the latest version.
 
 #### Link to Work:
 
@@ -61,11 +59,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day : January--2019
 
-#### Today's Focus:
+#### Today's Focus: "Virtual Lab Setup"
 
 #### Completed:
 
-#### Link to Work:
+- All the Lab Machines has been upgraded to the latest version.
+- Snapshots Taken
+
+#### Link to Work: #### **[Learn-Website-Hacking-Penetration-Testing-From-Scratch](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)**
 
 #### Thoughts: 
 
@@ -83,7 +84,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
  - Created the Lab
 
-#### Link to Work: **[Learn-Website-Hacking-Penetration-Testing-From-Scratch](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)**
+#### Link to Work: **[The Lab](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch/blob/master/Supporting%20Documents/The-Lab.md)**
 
 #### Thoughts: 
 
@@ -195,7 +196,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5ODUyNDgyLDE2MTMxNjk0NiwtMTE0MD
-M5ODg3NiwyMTM2NTUxMzcyLC0xOTI4MTU4NDI3LDEwNTM3NjM5
-MTBdfQ==
+eyJoaXN0b3J5IjpbMTI0NTk2MTM5MSwxNjEzMTY5NDYsLTExND
+AzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYz
+OTEwXX0=
 -->
