@@ -74,6 +74,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 [Tusk](https://github.com/subdavis/Tusk) - For accessing keePass files from the extension but the need for it is less as manual copy pasting is preferred.
 
+Always Revisit your Google Security to revoke some of the apps access that you don't use anymore.
+
+
+
 [Table of Contents](#toc)
 
 ---
@@ -200,8 +204,8 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzM4NjQ3NCwtMTM5MDA0NjY0NCwtMT
-g5MDAwNjMxMSwtMzU3MzAyNTc5LDE2MTMxNjk0NiwtMTE0MDM5
-ODg3NiwyMTM2NTUxMzcyLC0xOTI4MTU4NDI3LDEwNTM3NjM5MT
-BdfQ==
+eyJoaXN0b3J5IjpbODQ2OTg5NTUwLDE5NjczODY0NzQsLTEzOT
+AwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMwMjU3OSwxNjEzMTY5
+NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNy
+wxMDUzNzYzOTEwXX0=
 -->
