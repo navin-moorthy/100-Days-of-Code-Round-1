@@ -88,7 +88,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Thoughts: 
 
- [KeeWeb](https://keeweb.info/) - Amaz
+ [KeeWeb](https://keeweb.info/) - Amazing Password Manager with web version 
 
 [Table of Contents](#toc) 
 
@@ -194,7 +194,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNTk4OTUyLDE2MTMxNjk0NiwtMTE0MD
-M5ODg3NiwyMTM2NTUxMzcyLC0xOTI4MTU4NDI3LDEwNTM3NjM5
-MTBdfQ==
+eyJoaXN0b3J5IjpbMTE3ODY5ODMzMiwxNjEzMTY5NDYsLTExND
+AzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYz
+OTEwXX0=
 -->
