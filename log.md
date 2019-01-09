@@ -62,9 +62,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:  3 Tutorials
 
-#### Link to Work: [Repo]()
+#### Link to Work: [Repo](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
-#### Thoughts: 
+#### Thoughts: Started to play CTF to improve practicle knowledge
 
 [Table of Contents](#toc)
 
@@ -219,9 +219,9 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ5MDI1MTYsMjEwMzI5NzkwOCw2Nz
-M2ODgwNTIsLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5NjczODY0
-NzQsLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMwMjU3OS
-wxNjEzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3MiwtMTky
-ODE1ODQyNywxMDUzNzYzOTEwXX0=
+eyJoaXN0b3J5IjpbMTI2Mzg5MzEyLDIxMDMyOTc5MDgsNjczNj
+g4MDUyLC0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOTY3Mzg2NDc0
+LC0xMzkwMDQ2NjQ0LC0xODkwMDA2MzExLC0zNTczMDI1NzksMT
+YxMzE2OTQ2LC0xMTQwMzk4ODc2LDIxMzY1NTEzNzIsLTE5Mjgx
+NTg0MjcsMTA1Mzc2MzkxMF19
 -->
