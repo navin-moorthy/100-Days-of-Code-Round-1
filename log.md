@@ -56,13 +56,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 <a name="day-6"></a>
 
-## Day : January--2019
+## Day : January-09-2019
 
-#### Today's Focus: 
+#### Today's Focus: Pico CTF 2017 
 
-#### Completed:
+#### Completed:  3 Tutorials
 
-#### Link to Work:
+#### Link to Work: [Repo]()
 
 #### Thoughts: 
 
@@ -219,9 +219,9 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNDA3MjE0OCwyMTAzMjk3OTA4LDY3Mz
-Y4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4NjQ3
-NCwtMTM5MDA0NjY0NCwtMTg5MDAwNjMxMSwtMzU3MzAyNTc5LD
-E2MTMxNjk0NiwtMTE0MDM5ODg3NiwyMTM2NTUxMzcyLC0xOTI4
-MTU4NDI3LDEwNTM3NjM5MTBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODQ5MDI1MTYsMjEwMzI5NzkwOCw2Nz
+M2ODgwNTIsLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5NjczODY0
+NzQsLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMwMjU3OS
+wxNjEzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3MiwtMTky
+ODE1ODQyNywxMDUzNzYzOTEwXX0=
 -->
