@@ -56,7 +56,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 <a name="day-6"></a>
 
-## Day : January-09-2019
+## Day 6: January-09-2019
 
 #### Today's Focus: Pico CTF 2017 
 
@@ -221,9 +221,9 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1ODMzODAzLDIxMDMyOTc5MDgsNjczNj
-g4MDUyLC0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOTY3Mzg2NDc0
-LC0xMzkwMDQ2NjQ0LC0xODkwMDA2MzExLC0zNTczMDI1NzksMT
-YxMzE2OTQ2LC0xMTQwMzk4ODc2LDIxMzY1NTEzNzIsLTE5Mjgx
-NTg0MjcsMTA1Mzc2MzkxMF19
+eyJoaXN0b3J5IjpbMTA0ODEwNTMxMywyMTAzMjk3OTA4LDY3Mz
+Y4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4NjQ3
+NCwtMTM5MDA0NjY0NCwtMTg5MDAwNjMxMSwtMzU3MzAyNTc5LD
+E2MTMxNjk0NiwtMTE0MDM5ODg3NiwyMTM2NTUxMzcyLC0xOTI4
+MTU4NDI3LDEwNTM3NjM5MTBdfQ==
 -->
