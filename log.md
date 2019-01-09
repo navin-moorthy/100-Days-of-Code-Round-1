@@ -54,6 +54,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
+<a name="day-6"></a>
+
+## Day : January--2019
+
+#### Today's Focus: 
+
+#### Completed:
+
+#### Link to Work:
+
+#### Thoughts: 
+
+[Table of Contents](#toc)
+
+---
 
 <a name="day-5"></a>
 
@@ -204,9 +219,9 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzI5NzkwOCw2NzM2ODgwNTIsLTEyMT
-c3NjczNTAsODQ2OTg5NTUwLDE5NjczODY0NzQsLTEzOTAwNDY2
-NDQsLTE4OTAwMDYzMTEsLTM1NzMwMjU3OSwxNjEzMTY5NDYsLT
-ExNDAzOTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUz
-NzYzOTEwXX0=
+eyJoaXN0b3J5IjpbLTIyNDA3MjE0OCwyMTAzMjk3OTA4LDY3Mz
+Y4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4NjQ3
+NCwtMTM5MDA0NjY0NCwtMTg5MDAwNjMxMSwtMzU3MzAyNTc5LD
+E2MTMxNjk0NiwtMTE0MDM5ODg3NiwyMTM2NTUxMzcyLC0xOTI4
+MTU4NDI3LDEwNTM3NjM5MTBdfQ==
 -->
