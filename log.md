@@ -34,10 +34,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 | **Day** | **Focus** | **Day** | **Focus** |
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **04/01/18**| Learn Markdown and bring up the Repo site |[Day 2](#day-2) **05/01/18**| Automation In my Web Server Part 1 |
-|[Day 3](#day-3) **06/01/18**| Automation In my Web Server Part 2 | [Day 4](#day-4) **07/01/18**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
-|[Day 5](#day-5) **08/01/18**| Virtual Lab Setup |[Day 6](#day-6) **09/01/18**| Pico CTF 2017 | 
-|[Day 7](#day-7) **10/01/18**| Pico CTF 2017|
+|[Day 1](#day-1) **04/01/19**| Learn Markdown and bring up the Repo site |[Day 2](#day-2) **05/01/19**| Automation In my Web Server Part 1 |
+|[Day 3](#day-3) **06/01/19**| Automation In my Web Server Part 2 | [Day 4](#day-4) **07/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
+|[Day 5](#day-5) **08/01/19**| Virtual Lab Setup |[Day 6](#day-6) **09/01/19**| Pico CTF 2017 | 
+|[Day 7](#day-7) **10/01/19**| Pico CTF 2017|
 
 <!-- ---
 <a name="day-"></a>
@@ -230,10 +230,10 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYxNzY5NTksLTgzODg2NjM0MiwxNz
-c3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLDIxMDMyOTc5
-MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOT
-Y3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2MzExLC0zNTcz
-MDI1NzksMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LDIxMzY1NTEzNz
-IsLTE5MjgxNTg0MjcsMTA1Mzc2MzkxMF19
+eyJoaXN0b3J5IjpbLTQwMTIzNDMwNCwtODM4ODY2MzQyLDE3Nz
+czMjk2NzQsOTkwMzE4NjA0LDEwNDgxMDUzMTMsMjEwMzI5Nzkw
+OCw2NzM2ODgwNTIsLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5Nj
+czODY0NzQsLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMw
+MjU3OSwxNjEzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3Mi
+wtMTkyODE1ODQyNywxMDUzNzYzOTEwXX0=
 -->
