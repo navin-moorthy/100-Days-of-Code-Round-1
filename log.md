@@ -65,10 +65,6 @@ Paizza
 Keyz
 #### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
-#### Thoughts: 
-
-
-
 [Table of Contents](#toc)
 
 ---
@@ -234,10 +230,10 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNDQ0NzkyLDk5MDMxODYwNCwxMDQ4MT
-A1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUw
-LDg0Njk4OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC0xOD
-kwMDA2MzExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQwMzk4
-ODc2LDIxMzY1NTEzNzIsLTE5MjgxNTg0MjcsMTA1Mzc2MzkxMF
-19
+eyJoaXN0b3J5IjpbLTE3MjYwMTUxMjYsOTkwMzE4NjA0LDEwND
+gxMDUzMTMsMjEwMzI5NzkwOCw2NzM2ODgwNTIsLTEyMTc3Njcz
+NTAsODQ2OTg5NTUwLDE5NjczODY0NzQsLTEzOTAwNDY2NDQsLT
+E4OTAwMDYzMTEsLTM1NzMwMjU3OSwxNjEzMTY5NDYsLTExNDAz
+OTg4NzYsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYzOT
+EwXX0=
 -->
