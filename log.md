@@ -39,7 +39,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 5](#day-5) **08/01/18**| Virtual Lab Setup |[Day 6](#day-6) **09/01/18**| Pico CTF 2017 |
 
 <!-- ---
-<a name="day-6"></a>
+<a name="day-"></a>
 
 ## Day : January--2019
 
@@ -52,10 +52,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+ ---
+<a name="day-7"></a>
+
+## Day 7: January-10-2019
+
+#### Today's Focus: 
+
+#### Completed:
+
+#### Link to Work:
+
+#### Thoughts: 
+
+[Table of Contents](#toc)
 
 ---
-<a name="day-6"></a>
 
+<a name="day-6"></a>
 ## Day 6: January-09-2019
 
 #### Today's Focus: Pico CTF 2017 
@@ -73,7 +87,6 @@ Started to play CTF to improve practicle knowledge in security.
 ---
 
 <a name="day-5"></a>
-
 ## Day 5: January-08-2019
 
 #### Today's Focus: "Virtual Lab Setup"
@@ -100,7 +113,6 @@ GitHub gave free access to Private Repositories.
 ---
 
 <a name="day-4"></a>
-
 ## Day 4: January-07-2019
 
 #### Today's Focus: "Learn-Website-Hacking-Penetration-Testing-From-Scratch"
@@ -122,7 +134,6 @@ Found a way to quickly edit github markdown files right from the browser using [
 ---
 
 <a name="day-3"></a>
-
 ## Day 3: January-06-2019
 
 #### Today's Focus: "Automation In my Web Server Part 2"
@@ -154,7 +165,6 @@ To do for the next day:
  ---
 
 <a name="day-2"></a>
-
 ## Day 2: January-05-2019
 
 #### Today's Focus: "Automation In my Web Server Part 1"
@@ -189,7 +199,6 @@ To Do :
 ---
 
 <a name="day-1"></a>
-
 ## Day 1: January-04-2019
 
 #### Today's Focus: "Learn Markdown and bring up the Repo site"
@@ -221,9 +230,9 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODEwNTMxMywyMTAzMjk3OTA4LDY3Mz
-Y4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4NjQ3
-NCwtMTM5MDA0NjY0NCwtMTg5MDAwNjMxMSwtMzU3MzAyNTc5LD
-E2MTMxNjk0NiwtMTE0MDM5ODg3NiwyMTM2NTUxMzcyLC0xOTI4
-MTU4NDI3LDEwNTM3NjM5MTBdfQ==
+eyJoaXN0b3J5IjpbNzQ5MDA5Nzk0LDEwNDgxMDUzMTMsMjEwMz
+I5NzkwOCw2NzM2ODgwNTIsLTEyMTc3NjczNTAsODQ2OTg5NTUw
+LDE5NjczODY0NzQsLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLT
+M1NzMwMjU3OSwxNjEzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1
+MTM3MiwtMTkyODE1ODQyNywxMDUzNzYzOTEwXX0=
 -->
