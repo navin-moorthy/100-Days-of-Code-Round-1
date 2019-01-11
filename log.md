@@ -60,11 +60,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: Pico CTF 2017 
 
 #### Completed:
-Internet Kitties
-
-Paizza
-
-Keyz
+- Internet Kitties
+- Paizza
+- Keyz
 #### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 [Table of Contents](#toc)
@@ -232,7 +230,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA2NzM4MDIsLTgzODg2NjM0MiwxNz
+eyJoaXN0b3J5IjpbLTExODYxNzY5NTksLTgzODg2NjM0MiwxNz
 c3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLDIxMDMyOTc5
 MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOT
 Y3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2MzExLC0zNTcz
