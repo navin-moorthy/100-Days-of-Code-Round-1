@@ -64,7 +64,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed: Literally No Coding Except #200Wad
 
-#### Link to Work: Have to catch up tomorrow 
+####  Thoughts: Have to catch up tomorrow.
 
 [Table of Contents](#toc)
 
@@ -259,7 +259,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MDI1MTA3MywtMTYwNTc3MTU3MCwtND
+eyJoaXN0b3J5IjpbMTM1ODQyMzczNywtMTYwNTc3MTU3MCwtND
 AxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2
 MDQsMTA0ODEwNTMxMywyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMT
 IxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4NjQ3NCwtMTM5MDA0
