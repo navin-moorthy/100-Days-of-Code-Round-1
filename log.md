@@ -62,11 +62,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: Pico CTF 2017 
 
 #### Completed:
-Learned Regular Expression, SSH
+Learned Regular Expression, SSH, chmod File Permissions
 
-#### Link to Work:
-
-#### Thoughts: 
+#### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 [Table of Contents](#toc)
 
@@ -247,11 +245,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTkwMTcwMSwtNDAxMjM0MzA0LC04Mz
-g4NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMx
-MywyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMTIxNzc2NzM1MCw4ND
-Y5ODk1NTAsMTk2NzM4NjQ3NCwtMTM5MDA0NjY0NCwtMTg5MDAw
-NjMxMSwtMzU3MzAyNTc5LDE2MTMxNjk0NiwtMTE0MDM5ODg3Ni
-wyMTM2NTUxMzcyLC0xOTI4MTU4NDI3LDEwNTM3NjM5MTBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDU3NzE1NzAsLTQwMTIzNDMwNCwtOD
+M4ODY2MzQyLDE3NzczMjk2NzQsOTkwMzE4NjA0LDEwNDgxMDUz
+MTMsMjEwMzI5NzkwOCw2NzM2ODgwNTIsLTEyMTc3NjczNTAsOD
+Q2OTg5NTUwLDE5NjczODY0NzQsLTEzOTAwNDY2NDQsLTE4OTAw
+MDYzMTEsLTM1NzMwMjU3OSwxNjEzMTY5NDYsLTExNDAzOTg4Nz
+YsMjEzNjU1MTM3MiwtMTkyODE1ODQyNywxMDUzNzYzOTEwXX0=
 
 -->
