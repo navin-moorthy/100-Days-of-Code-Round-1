@@ -62,7 +62,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: Pico CTF 2017 
 
 #### Completed:
-Learned Regular Express
+Learned Regular Expression, SSH
 
 #### Link to Work:
 
@@ -247,10 +247,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjgxMDM5LC00MDEyMzQzMDQsLTgzOD
-g2NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEz
-LDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Nj
-k4OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2
-MzExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LD
-IxMzY1NTEzNzIsLTE5MjgxNTg0MjcsMTA1Mzc2MzkxMF19
+eyJoaXN0b3J5IjpbMTAxMTkwMTcwMSwtNDAxMjM0MzA0LC04Mz
+g4NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMx
+MywyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMTIxNzc2NzM1MCw4ND
+Y5ODk1NTAsMTk2NzM4NjQ3NCwtMTM5MDA0NjY0NCwtMTg5MDAw
+NjMxMSwtMzU3MzAyNTc5LDE2MTMxNjk0NiwtMTE0MDM5ODg3Ni
+wyMTM2NTUxMzcyLC0xOTI4MTU4NDI3LDEwNTM3NjM5MTBdfQ==
+
 -->
