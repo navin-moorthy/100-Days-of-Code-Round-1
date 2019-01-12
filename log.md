@@ -37,7 +37,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 1](#day-1) **04/01/19**| Learn Markdown and bring up the Repo site |[Day 2](#day-2) **05/01/19**| Automation In my Web Server Part 1 |
 |[Day 3](#day-3) **06/01/19**| Automation In my Web Server Part 2 | [Day 4](#day-4) **07/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
 |[Day 5](#day-5) **08/01/19**| Virtual Lab Setup |[Day 6](#day-6) **09/01/19**| Pico CTF 2017 | 
-|[Day 7](#day-7) **10/01/19**| Pico CTF 2017|
+|[Day 7](#day-7) **10/01/19**| Pico CTF 2017|[Day 8](#day-8) **11/01/19**| Pico CTF 2017|
 
 <!-- ---
 <a name="day-"></a>
@@ -53,6 +53,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-8"></a>
+
+## Day 8: January-11-2019
+
+#### Today's Focus: Pico CTF 2017 
+
+#### Completed:
+Learned Regular Express
+
+#### Link to Work:
+
+#### Thoughts: 
+
+[Table of Contents](#toc)
+
  ---
 <a name="day-7"></a>
 ## Day 7: January-10-2019
@@ -230,10 +247,10 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTIzNDMwNCwtODM4ODY2MzQyLDE3Nz
-czMjk2NzQsOTkwMzE4NjA0LDEwNDgxMDUzMTMsMjEwMzI5Nzkw
-OCw2NzM2ODgwNTIsLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5Nj
-czODY0NzQsLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMw
-MjU3OSwxNjEzMTY5NDYsLTExNDAzOTg4NzYsMjEzNjU1MTM3Mi
-wtMTkyODE1ODQyNywxMDUzNzYzOTEwXX0=
+eyJoaXN0b3J5IjpbLTYxNjgxMDM5LC00MDEyMzQzMDQsLTgzOD
+g2NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEz
+LDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Nj
+k4OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2
+MzExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LD
+IxMzY1NTEzNzIsLTE5MjgxNTg0MjcsMTA1Mzc2MzkxMF19
 -->
