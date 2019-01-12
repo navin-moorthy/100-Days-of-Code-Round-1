@@ -58,15 +58,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 <a name="day-9"></a>
 
-## Day : January--2019
+## Day 9: January-12-2019
 
-#### Today's Focus: 
+#### Today's Focus: Busy day
 
-#### Completed:
+#### Completed: Literally No Coding Except #200Wad
 
-#### Link to Work:
-
-#### Thoughts: 
+#### Link to Work: Have to catch up tomorrow 
 
 [Table of Contents](#toc)
 
@@ -261,7 +259,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTg1ODM1OSwtMTYwNTc3MTU3MCwtND
+eyJoaXN0b3J5IjpbMTc3MDI1MTA3MywtMTYwNTc3MTU3MCwtND
 AxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2
 MDQsMTA0ODEwNTMxMywyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMT
 IxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4NjQ3NCwtMTM5MDA0
