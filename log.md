@@ -56,15 +56,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
-<a name="day-"></a>
+<a name="day-10"></a>
 
-## Day : January--2019
+## Day 10: January-13-2019
 
-#### Today's Focus: 
+#### Today's Focus: Pico CTF
 
 #### Completed:
-
-#### Link to Work:
+- 3 Challenges
+#### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 #### Thoughts: 
 
@@ -274,11 +274,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkzNjg2NTcsMTM1ODQyMzczNywtMT
-YwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMy
-OTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMywyMTAzMjk3OTA4LD
-Y3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4
-NjQ3NCwtMTM5MDA0NjY0NCwtMTg5MDAwNjMxMSwtMzU3MzAyNT
-c5LDE2MTMxNjk0NiwtMTE0MDM5ODg3NiwyMTM2NTUxMzcyLC0x
-OTI4MTU4NDI3XX0=
+eyJoaXN0b3J5IjpbLTU3NDIwOTYyMSwxMzU4NDIzNzM3LC0xNj
+A1NzcxNTcwLC00MDEyMzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5
+Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLDIxMDMyOTc5MDgsNj
+czNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOTY3Mzg2
+NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2MzExLC0zNTczMDI1Nz
+ksMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LDIxMzY1NTEzNzIsLTE5
+MjgxNTg0MjddfQ==
 -->
