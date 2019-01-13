@@ -66,8 +66,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - 3 Challenges
 #### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
-#### Thoughts: 
-
 [Table of Contents](#toc)
 
 ---
@@ -274,7 +272,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDIwOTYyMSwxMzU4NDIzNzM3LC0xNj
+eyJoaXN0b3J5IjpbMTQ0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNj
 A1NzcxNTcwLC00MDEyMzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5
 Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLDIxMDMyOTc5MDgsNj
 czNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOTY3Mzg2
