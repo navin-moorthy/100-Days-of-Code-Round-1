@@ -38,7 +38,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 3](#day-3) **06/01/19**| Automation In my Web Server Part 2 | [Day 4](#day-4) **07/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
 |[Day 5](#day-5) **08/01/19**| Virtual Lab Setup |[Day 6](#day-6) **09/01/19**| Pico CTF 2017 | 
 |[Day 7](#day-7) **10/01/19**| Pico CTF 2017|[Day 8](#day-8) **11/01/19**| Pico CTF 2017|
-|[Day 9](#day-9) **12/01/19**| Busy Day
+|[Day 9](#day-9) **12/01/19**| Busy Day|[Day 10](#day-10) **13/01/19**| Pico CTF 2017|
 
 <!-- ---
 <a name="day-"></a>
@@ -54,6 +54,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-"></a>
+
+## Day : January--2019
+
+#### Today's Focus: 
+
+#### Completed:
+
+#### Link to Work:
+
+#### Thoughts: 
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-9"></a>
@@ -259,11 +274,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODQyMzczNywtMTYwNTc3MTU3MCwtND
-AxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2
-MDQsMTA0ODEwNTMxMywyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMT
-IxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4NjQ3NCwtMTM5MDA0
-NjY0NCwtMTg5MDAwNjMxMSwtMzU3MzAyNTc5LDE2MTMxNjk0Ni
-wtMTE0MDM5ODg3NiwyMTM2NTUxMzcyLC0xOTI4MTU4NDI3LDEw
-NTM3NjM5MTBdfQ==
+eyJoaXN0b3J5IjpbLTExNjkzNjg2NTcsMTM1ODQyMzczNywtMT
+YwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMy
+OTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMywyMTAzMjk3OTA4LD
+Y3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4
+NjQ3NCwtMTM5MDA0NjY0NCwtMTg5MDAwNjMxMSwtMzU3MzAyNT
+c5LDE2MTMxNjk0NiwtMTE0MDM5ODg3NiwyMTM2NTUxMzcyLC0x
+OTI4MTU4NDI3XX0=
 -->
