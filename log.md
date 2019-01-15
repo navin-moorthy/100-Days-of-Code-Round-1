@@ -64,7 +64,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:
 
-#### Link to Work:
+-  Information Gathering
+
+#### Link to Work: [Notes]
 
 #### Thoughts: 
 
@@ -303,11 +305,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1OD
-QyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYz
-NDIsMTc3NzMyOTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMywyMT
-AzMjk3OTA4LDY3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1
-NTAsMTk2NzM4NjQ3NCwtMTM5MDA0NjY0NCwtMTg5MDAwNjMxMS
-wtMzU3MzAyNTc5LDE2MTMxNjk0NiwtMTE0MDM5ODg3NiwyMTM2
-NTUxMzcyXX0=
+eyJoaXN0b3J5IjpbLTQ5OTgyMjI5OCw1ODUwNzgzNzMsMTQ0ND
+g3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQz
+MDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMD
+Q4MTA1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3
+MzUwLDg0Njk4OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC
+0xODkwMDA2MzExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQw
+Mzk4ODc2XX0=
 -->
