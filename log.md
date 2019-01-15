@@ -60,7 +60,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 12: January-15-2019
 
-#### Today's Focus: 
+#### Today's Focus: Learn-Website-Hacking-Penetration-Testing-From-Scratch
 
 #### Completed:
 
@@ -75,13 +75,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 11: January-14-2019
 
-#### Today's Focus:  Kali Linux and Website Basics
+#### Today's Focus:  Learn-Website-Hacking-Penetration-Testing-From-Scratch
 
 #### Completed:
 
-#### Link to Work:
+- Kali Linux Basics
+- Website Basics
 
-#### Thoughts: 
+#### Link to Work: 
 
 [Table of Contents](#toc) 
 
@@ -302,7 +303,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MjQyMDQ1LDE0NDQ4NzAzODEsMTM1OD
+eyJoaXN0b3J5IjpbNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1OD
 QyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYz
 NDIsMTc3NzMyOTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMywyMT
 AzMjk3OTA4LDY3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1
