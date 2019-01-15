@@ -39,7 +39,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 5](#day-5) **08/01/19**| Virtual Lab Setup |[Day 6](#day-6) **09/01/19**| Pico CTF 2017 | 
 |[Day 7](#day-7) **10/01/19**| Pico CTF 2017|[Day 8](#day-8) **11/01/19**| Pico CTF 2017|
 |[Day 9](#day-9) **12/01/19**| Busy Day|[Day 10](#day-10) **13/01/19**| Pico CTF 2017|
-
+| [Day 11](#day-11) **14/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 12](#day-12) **15/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
 <!-- ---
 <a name="day-"></a>
 
@@ -75,7 +75,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 11: January-14-2019
 
-#### Today's Focus: 
+#### Today's Focus:  Kali Linux and Website Basics
 
 #### Completed:
 
@@ -302,11 +302,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUzNTUyMDIsMTQ0NDg3MDM4MSwxMz
-U4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQzMDQsLTgzODg2
-NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLD
-IxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4
-OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2Mz
-ExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LDIx
-MzY1NTEzNzJdfQ==
+eyJoaXN0b3J5IjpbNTE5MjQyMDQ1LDE0NDQ4NzAzODEsMTM1OD
+QyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYz
+NDIsMTc3NzMyOTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMywyMT
+AzMjk3OTA4LDY3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1
+NTAsMTk2NzM4NjQ3NCwtMTM5MDA0NjY0NCwtMTg5MDAwNjMxMS
+wtMzU3MzAyNTc5LDE2MTMxNjk0NiwtMTE0MDM5ODg3NiwyMTM2
+NTUxMzcyXX0=
 -->
