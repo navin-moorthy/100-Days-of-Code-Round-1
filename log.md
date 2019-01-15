@@ -56,6 +56,36 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
+<a name="day-12"></a>
+
+## Day 12: January-15-2019
+
+#### Today's Focus: 
+
+#### Completed:
+
+#### Link to Work:
+
+#### Thoughts: 
+
+[Table of Contents](#toc) 
+
+---
+<a name="day-11"></a>
+
+## Day 11: January-14-2019
+
+#### Today's Focus: 
+
+#### Completed:
+
+#### Link to Work:
+
+#### Thoughts: 
+
+[Table of Contents](#toc) 
+
+---
 <a name="day-10"></a>
 
 ## Day 10: January-13-2019
@@ -272,11 +302,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNj
-A1NzcxNTcwLC00MDEyMzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5
-Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLDIxMDMyOTc5MDgsNj
-czNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOTY3Mzg2
-NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2MzExLC0zNTczMDI1Nz
-ksMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LDIxMzY1NTEzNzIsLTE5
-MjgxNTg0MjddfQ==
+eyJoaXN0b3J5IjpbLTE5MDUzNTUyMDIsMTQ0NDg3MDM4MSwxMz
+U4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQzMDQsLTgzODg2
+NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLD
+IxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4
+OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC0xODkwMDA2Mz
+ExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQwMzk4ODc2LDIx
+MzY1NTEzNzJdfQ==
 -->
