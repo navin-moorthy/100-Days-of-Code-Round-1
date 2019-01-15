@@ -68,8 +68,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Link to Work: [Notes](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)
 
-#### Thoughts: 
-
 [Table of Contents](#toc) 
 
 ---
@@ -306,11 +304,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk5MjU1MjUsNTg1MDc4MzczLDE0ND
-Q4NzAzODEsMTM1ODQyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0
-MzA0LC04Mzg4NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2MDQsMT
-A0ODEwNTMxMywyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMTIxNzc2
-NzM1MCw4NDY5ODk1NTAsMTk2NzM4NjQ3NCwtMTM5MDA0NjY0NC
-wtMTg5MDAwNjMxMSwtMzU3MzAyNTc5LDE2MTMxNjk0NiwtMTE0
-MDM5ODg3Nl19
+eyJoaXN0b3J5IjpbMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0ND
+g3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQz
+MDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMD
+Q4MTA1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3
+MzUwLDg0Njk4OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC
+0xODkwMDA2MzExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQw
+Mzk4ODc2XX0=
 -->
