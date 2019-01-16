@@ -40,6 +40,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 7](#day-7) **10/01/19**| Pico CTF 2017|[Day 8](#day-8) **11/01/19**| Pico CTF 2017|
 |[Day 9](#day-9) **12/01/19**| Busy Day|[Day 10](#day-10) **13/01/19**| Pico CTF 2017|
 | [Day 11](#day-11) **14/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 12](#day-12) **15/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
+| [Day 13](#day-13) **16/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
+
 <!-- ---
 <a name="day-"></a>
 
@@ -54,6 +56,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-"></a>
+
+## Day : January--2019
+
+#### Today's Focus: Learn-Website-Hacking-Penetration-Testing-From-Scratch
+
+#### Completed:
+
+- Dirb and Maltego tool explored
+
+#### Link to Work: [Notes](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)
+
+[Table of Contents](#toc) 
 
 ---
 <a name="day-12"></a>
@@ -304,11 +321,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0ND
-g3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQz
-MDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMD
-Q4MTA1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3
-MzUwLDg0Njk4OTU1MCwxOTY3Mzg2NDc0LC0xMzkwMDQ2NjQ0LC
-0xODkwMDA2MzExLC0zNTczMDI1NzksMTYxMzE2OTQ2LC0xMTQw
-Mzk4ODc2XX0=
+eyJoaXN0b3J5IjpbODc2MTA5MjEsMTUzNzQ5ODE0OSw1ODUwNz
+gzNzMsMTQ0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNTcw
+LC00MDEyMzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5MD
+MxODYwNCwxMDQ4MTA1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUy
+LC0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOTY3Mzg2NDc0LC0xMz
+kwMDQ2NjQ0LC0xODkwMDA2MzExLC0zNTczMDI1NzksMTYxMzE2
+OTQ2XX0=
 -->
