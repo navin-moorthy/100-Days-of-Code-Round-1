@@ -40,7 +40,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 7](#day-7) **10/01/19**| Pico CTF 2017|[Day 8](#day-8) **11/01/19**| Pico CTF 2017|
 |[Day 9](#day-9) **12/01/19**| Busy Day|[Day 10](#day-10) **13/01/19**| Pico CTF 2017|
 | [Day 11](#day-11) **14/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 12](#day-12) **15/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
-| [Day 13](#day-13) **16/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
+| [Day 13](#day-13) **16/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 14](#day-14) **17/01/19**| Pico CTF 2017|
 
 <!-- ---
 <a name="day-"></a>
@@ -56,6 +56,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-"></a>
+
+## Day : January--2019
+
+#### Today's Focus: 
+
+#### Completed: 
+- Level 1 
+- Level
+
+#### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up
+
+[Table of Contents](#toc) 
 
 ---
 <a name="day-13"></a>
@@ -321,11 +336,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4NT
-A3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3NzE1
-NzAsLTQwMTIzNDMwNCwtODM4ODY2MzQyLDE3NzczMjk2NzQsOT
-kwMzE4NjA0LDEwNDgxMDUzMTMsMjEwMzI5NzkwOCw2NzM2ODgw
-NTIsLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5NjczODY0NzQsLT
-EzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLTM1NzMwMjU3OSwxNjEz
-MTY5NDZdfQ==
+eyJoaXN0b3J5IjpbLTEwNTY1NTgzMDIsMTM3MjE4MjA5OCwxNT
+M3NDk4MTQ5LDU4NTA3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3
+MzcsLTE2MDU3NzE1NzAsLTQwMTIzNDMwNCwtODM4ODY2MzQyLD
+E3NzczMjk2NzQsOTkwMzE4NjA0LDEwNDgxMDUzMTMsMjEwMzI5
+NzkwOCw2NzM2ODgwNTIsLTEyMTc3NjczNTAsODQ2OTg5NTUwLD
+E5NjczODY0NzQsLTEzOTAwNDY2NDQsLTE4OTAwMDYzMTEsLTM1
+NzMwMjU3OV19
 -->
