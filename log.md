@@ -66,7 +66,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: Pico CTF 2017
 
 #### Completed:
--Level 2 - 2 Challenges
+- Level 2 - 2 Challenges
 
 #### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
