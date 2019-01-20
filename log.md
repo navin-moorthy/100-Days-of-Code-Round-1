@@ -59,19 +59,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
-<a name="day-16"></a>
+<a name="day-17"></a>
 
-## Day 16: January-19-2019
+## Day 17: January-20-2019
 
 #### Today's Focus: Learn-Website-Hacking-Penetration-Testing-From-Scratch
 
 #### Completed:
 
-- Radare2 
+- Radare 2 
 
 #### Link to Work: [Notes](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)
 
 [Table of Contents](#toc) 
+---
+<a name="day-16"></a>
+
+## Day 16: January-19-2019
+
+#### Today's Focus: Pico CTF 2017
+
+#### Completed:
+- Radare 2 Basics Learned
+
+#### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-15"></a>
@@ -366,11 +379,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzcxNTAwMCwtNDY0MDMzNjA5LDE0NT
-UyNzIzMjksLTE0NTg4MTM1NzcsMTM3MjE4MjA5OCwxNTM3NDk4
-MTQ5LDU4NTA3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLT
-E2MDU3NzE1NzAsLTQwMTIzNDMwNCwtODM4ODY2MzQyLDE3Nzcz
-Mjk2NzQsOTkwMzE4NjA0LDEwNDgxMDUzMTMsMjEwMzI5NzkwOC
-w2NzM2ODgwNTIsLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5Njcz
-ODY0NzRdfQ==
+eyJoaXN0b3J5IjpbMTQxNTIwOTMwLC00NjQwMzM2MDksMTQ1NT
+I3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgyMDk4LDE1Mzc0OTgx
+NDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1ODQyMzczNywtMT
+YwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMy
+OTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMywyMTAzMjk3OTA4LD
+Y3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4
+NjQ3NF19
 -->
