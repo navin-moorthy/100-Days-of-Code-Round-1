@@ -59,6 +59,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
+<a name="day-16"></a>
+
+## Day 16: January-19-2019
+
+#### Today's Focus: Learn-Website-Hacking-Penetration-Testing-From-Scratch
+
+#### Completed:
+
+- Radare2 
+
+#### Link to Work: [Notes](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)
+
+[Table of Contents](#toc) 
+
+---
 <a name="day-15"></a>
 
 ## Day 15: January-18-2019
@@ -351,11 +366,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0xND
-U4ODEzNTc3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgz
-NzMsMTQ0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC
-00MDEyMzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5MDMx
-ODYwNCwxMDQ4MTA1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUyLC
-0xMjE3NzY3MzUwLDg0Njk4OTU1MCwxOTY3Mzg2NDc0LC0xMzkw
-MDQ2NjQ0XX0=
+eyJoaXN0b3J5IjpbMTE4NzcxNTAwMCwtNDY0MDMzNjA5LDE0NT
+UyNzIzMjksLTE0NTg4MTM1NzcsMTM3MjE4MjA5OCwxNTM3NDk4
+MTQ5LDU4NTA3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLT
+E2MDU3NzE1NzAsLTQwMTIzNDMwNCwtODM4ODY2MzQyLDE3Nzcz
+Mjk2NzQsOTkwMzE4NjA0LDEwNDgxMDUzMTMsMjEwMzI5NzkwOC
+w2NzM2ODgwNTIsLTEyMTc3NjczNTAsODQ2OTg5NTUwLDE5Njcz
+ODY0NzRdfQ==
 -->
