@@ -67,11 +67,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:
 
-- Radare 2 
+- Learned Burp Suite Basic Web Traffic Analysis 
 
 #### Link to Work: [Notes](https://github.com/NavinNavi19/Learn-Website-Hacking-Penetration-Testing-From-Scratch)
 
 [Table of Contents](#toc) 
+
 ---
 <a name="day-16"></a>
 
@@ -80,7 +81,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: Pico CTF 2017
 
 #### Completed:
-- Radare 2 Basics Learned
+- Radare 2 Tool Basics Learned
 
 #### Link to Work: [Pico CTF WriteUp](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
@@ -379,7 +380,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTIwOTMwLC00NjQwMzM2MDksMTQ1NT
+eyJoaXN0b3J5IjpbLTg1MjExNDcyLC00NjQwMzM2MDksMTQ1NT
 I3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgyMDk4LDE1Mzc0OTgx
 NDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1ODQyMzczNywtMT
 YwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMy
