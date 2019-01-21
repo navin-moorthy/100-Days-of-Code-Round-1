@@ -70,11 +70,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 + Key based login to github
 + Key based login webserver
 + Automated some repeated basic commands with scripts
-+ Automate git commands wscripts to run in fixed interval using crontab watch sleep
-
-
++ Automate git commands with scripts to run in fixed interval using crontab.
 
 #### Thoughts: 
+
+Today's work will save me a lot of time in future sessions because no more entering passwords for git push and
 
 [Table of Contents](#toc)
 
@@ -400,11 +400,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjkwOTgwNCw2ODIxODk3MzEsLTQ2ND
-AzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNTc3LDEzNzIxODIw
-OTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0NDg3MDM4MSwxMz
-U4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQzMDQsLTgzODg2
-NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLD
-IxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4
-OTU1MF19
+eyJoaXN0b3J5IjpbLTEyNDUwMzI2NzEsNjgyMTg5NzMxLC00Nj
+QwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgy
+MDk4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMT
+M1ODQyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4
+NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMy
+wyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5
+ODk1NTBdfQ==
 -->
