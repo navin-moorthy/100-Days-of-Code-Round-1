@@ -74,7 +74,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Thoughts: 
 
-Today's work will save me a lot of time in future sessions because no more entering passwords for git push and
+Today's work will save me a lot of time in future sessions because no more entering passwords for git push and pull. ssh agents are automated to save the passphare. Lot learned today in git and linux scripting.
 
 [Table of Contents](#toc)
 
@@ -400,7 +400,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUwMzI2NzEsNjgyMTg5NzMxLC00Nj
+eyJoaXN0b3J5IjpbLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00Nj
 QwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgy
 MDk4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMT
 M1ODQyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4
