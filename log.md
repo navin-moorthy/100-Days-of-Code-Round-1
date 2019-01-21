@@ -42,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 11](#day-11) **14/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 12](#day-12) **15/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
 | [Day 13](#day-13) **16/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 14](#day-14) **17/01/19**| Pico CTF 2017|
 [Day 15](#day-15) **18/01/19**| Pico CTF 2017|[Day 16](#day-16) **19/01/19**| Pico CTF 2017|
-| [Day 17](#day-17) **20/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
+| [Day 17](#day-17) **20/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 18](#day-18) **21/01/19**| Quality of life Improvements |
 <!-- ---
 <a name="day-"></a>
 
@@ -57,6 +57,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-"></a>
+
+## Day : January--2019
+
+#### Today's Focus: 
+
+#### Completed:
+
+#### Link to Work:
+
+#### Thoughts: 
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-17"></a>
@@ -380,11 +395,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMTg5NzMxLC00NjQwMzM2MDksMTQ1NT
-I3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgyMDk4LDE1Mzc0OTgx
-NDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1ODQyMzczNywtMT
-YwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMy
-OTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMywyMTAzMjk3OTA4LD
-Y3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5ODk1NTAsMTk2NzM4
-NjQ3NF19
+eyJoaXN0b3J5IjpbLTYxMTcxNjk1MSw2ODIxODk3MzEsLTQ2ND
+AzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNTc3LDEzNzIxODIw
+OTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0NDg3MDM4MSwxMz
+U4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQzMDQsLTgzODg2
+NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLD
+IxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3NzY3MzUwLDg0Njk4
+OTU1MF19
 -->
