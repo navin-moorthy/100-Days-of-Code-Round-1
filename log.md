@@ -63,13 +63,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 19: January-22-2019
 
-#### Today's Focus: The Web Developers
+#### Today's Focus: The Web Developer Bootcamp
 
 #### Completed:
+- Revised half of the course which I stopped one month back
 
-#### Link to Work:
-
-#### Thoughts: 
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
 
 [Table of Contents](#toc) 
 
@@ -415,7 +414,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MjY1NjYwLC0xNDk2NDgxMTkwLDY4Mj
+eyJoaXN0b3J5IjpbMTE0NjczMjc5LC0xNDk2NDgxMTkwLDY4Mj
 E4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0NTg4MTM1
 NzcsMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4NTA3ODM3MywxND
 Q0ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3NzE1NzAsLTQwMTIz
