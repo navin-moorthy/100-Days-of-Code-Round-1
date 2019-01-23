@@ -58,6 +58,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 [Table of Contents](#toc) -->
 
+---
+<a name="day-20"></a>
+
+## Day 20: January-23-2019
+
+#### Today's Focus: The Web Developer Bootcamp
+
+#### Completed:
+- Revised till JavaScript and . Need to start JQuery.
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
+
  ---
 <a name="day-19"></a>
 
@@ -414,11 +426,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjczMjc5LC0xNDk2NDgxMTkwLDY4Mj
-E4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0NTg4MTM1
-NzcsMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4NTA3ODM3MywxND
-Q0ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3NzE1NzAsLTQwMTIz
-NDMwNCwtODM4ODY2MzQyLDE3NzczMjk2NzQsOTkwMzE4NjA0LD
-EwNDgxMDUzMTMsMjEwMzI5NzkwOCw2NzM2ODgwNTIsLTEyMTc3
-NjczNTBdfQ==
+eyJoaXN0b3J5IjpbLTQzNDU5Nzk5NCwtMTQ5NjQ4MTE5MCw2OD
+IxODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEz
+NTc3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMT
+Q0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEy
+MzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNC
+wxMDQ4MTA1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3
+NzY3MzUwXX0=
 -->
