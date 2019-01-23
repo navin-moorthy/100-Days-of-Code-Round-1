@@ -58,6 +58,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 [Table of Contents](#toc) -->
 
+ ---
+<a name="day-19"></a>
+
+## Day 19: January-22-2019
+
+#### Today's Focus: The Web Developers
+
+#### Completed:
+
+#### Link to Work:
+
+#### Thoughts: 
+
+[Table of Contents](#toc) 
+
 ---
 <a name="day-18"></a>
 
@@ -400,11 +415,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00Nj
-QwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgy
-MDk4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMT
-M1ODQyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4
-NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2MDQsMTA0ODEwNTMxMy
-wyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMTIxNzc2NzM1MCw4NDY5
-ODk1NTBdfQ==
+eyJoaXN0b3J5IjpbNTQ4MjY1NjYwLC0xNDk2NDgxMTkwLDY4Mj
+E4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0NTg4MTM1
+NzcsMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4NTA3ODM3MywxND
+Q0ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3NzE1NzAsLTQwMTIz
+NDMwNCwtODM4ODY2MzQyLDE3NzczMjk2NzQsOTkwMzE4NjA0LD
+EwNDgxMDUzMTMsMjEwMzI5NzkwOCw2NzM2ODgwNTIsLTEyMTc3
+NjczNTBdfQ==
 -->
