@@ -43,7 +43,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 13](#day-13) **16/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 14](#day-14) **17/01/19**| Pico CTF 2017|
 [Day 15](#day-15) **18/01/19**| Pico CTF 2017|[Day 16](#day-16) **19/01/19**| Pico CTF 2017|
 | [Day 17](#day-17) **20/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 18](#day-18) **21/01/19**| Quality of life Improvements |
-| [Day 19](#day-19) **22/01/19**| The Web Developer Bootcamp |[Day 20](#day-20) **23/01/19**| The Web Developer Bootcamp |
+| [Day 19](#day-19) **22/01/19**| The Web Developer Bootcamp - Till Bootstrap |[Day 20](#day-20) **23/01/19**| The Web Developer Bootcamp - Till Javascript last project |
 
 <!-- ---
 <a name="day-"></a>
@@ -65,7 +65,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 20: January-23-2019
 
-#### Today's Focus: The Web Developer Bootcamp
+#### Today's Focus: The Web Developer Bootcamp - Till Javascript last project
 
 #### Completed:
 - Revised till JavaScript and Color Game Project. Need to start JQuery.
@@ -77,7 +77,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 19: January-22-2019
 
-#### Today's Focus: The Web Developer Bootcamp
+#### Today's Focus: The Web Developer Bootcamp - Till Bootstrap
 
 #### Completed:
 - Revised half of the course which I stopped one month back
@@ -428,11 +428,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM5OTY0MDEsLTE0OTY0ODExOTAsNj
-gyMTg5NzMxLC00NjQwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgx
-MzU3NywxMzcyMTgyMDk4LDE1Mzc0OTgxNDksNTg1MDc4MzczLD
-E0NDQ4NzAzODEsMTM1ODQyMzczNywtMTYwNTc3MTU3MCwtNDAx
-MjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMyOTY3NCw5OTAzMTg2MD
-QsMTA0ODEwNTMxMywyMTAzMjk3OTA4LDY3MzY4ODA1MiwtMTIx
-Nzc2NzM1MF19
+eyJoaXN0b3J5IjpbMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2OD
+IxODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEz
+NTc3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMT
+Q0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEy
+MzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNC
+wxMDQ4MTA1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3
+NzY3MzUwXX0=
 -->
