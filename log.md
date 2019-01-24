@@ -44,6 +44,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Day 15](#day-15) **18/01/19**| Pico CTF 2017|[Day 16](#day-16) **19/01/19**| Pico CTF 2017|
 | [Day 17](#day-17) **20/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 18](#day-18) **21/01/19**| Quality of life Improvements |
 | [Day 19](#day-19) **22/01/19**| The Web Developer Bootcamp - Till Bootstrap |[Day 20](#day-20) **23/01/19**| The Web Developer Bootcamp - Till Javascript last project |
+|[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - JQuery |
 
 <!-- ---
 <a name="day-"></a>
@@ -428,11 +429,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2OD
-IxODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEz
-NTc3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMT
-Q0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEy
-MzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5MDMxODYwNC
-wxMDQ4MTA1MzEzLDIxMDMyOTc5MDgsNjczNjg4MDUyLC0xMjE3
-NzY3MzUwXX0=
+eyJoaXN0b3J5IjpbLTc4NjE0MzU5OCwxNDExNTUyMzg1LC0xND
+k2NDgxMTkwLDY4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIz
+MjksLTE0NTg4MTM1NzcsMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LD
+U4NTA3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3
+NzE1NzAsLTQwMTIzNDMwNCwtODM4ODY2MzQyLDE3NzczMjk2Nz
+QsOTkwMzE4NjA0LDEwNDgxMDUzMTMsMjEwMzI5NzkwOCw2NzM2
+ODgwNTJdfQ==
 -->
