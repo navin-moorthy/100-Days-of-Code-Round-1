@@ -68,7 +68,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus: The Web Developer Bootcamp - JQuery
 #### Completed:
-- jQu
+- jQuery Basics
 
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
 
@@ -440,7 +440,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MzIzMTU1LC0xOTgwNzQwNDc1LDE0MT
+eyJoaXN0b3J5IjpbMjUwNjMxODk4LC0xOTgwNzQwNDc1LDE0MT
 E1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00NjQwMzM2
 MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgyMDk4LD
 E1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1ODQy
