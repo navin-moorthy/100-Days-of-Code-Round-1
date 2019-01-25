@@ -44,7 +44,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Day 15](#day-15) **18/01/19**| Pico CTF 2017|[Day 16](#day-16) **19/01/19**| Pico CTF 2017|
 | [Day 17](#day-17) **20/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 18](#day-18) **21/01/19**| Quality of life Improvements |
 | [Day 19](#day-19) **22/01/19**| The Web Developer Bootcamp - Till Bootstrap |[Day 20](#day-20) **23/01/19**| The Web Developer Bootcamp - Till Javascript last project |
-|[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - jQuery |
+|[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - jQuery |[Day 22](#day-22) **25/01/19**| The Web Developer Bootcamp - jQuery |
 
 <!-- ---
 <a name="day-"></a>
@@ -60,6 +60,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-22"></a>
+
+## Day 22: January-25-2019
+
+#### Today's Focus: The Web Developer Bootcamp - jQuery
+#### Completed:
+- Completed jQuery Basics
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
 
 ---
 <a name="day-21"></a>
@@ -440,11 +451,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA4NTczODIsLTE5ODA3NDA0NzUsMT
-QxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIxODk3MzEsLTQ2NDAz
-MzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNTc3LDEzNzIxODIwOT
-gsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0NDg3MDM4MSwxMzU4
-NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQzMDQsLTgzODg2Nj
-M0MiwxNzc3MzI5Njc0LDk5MDMxODYwNCwxMDQ4MTA1MzEzLDIx
-MDMyOTc5MDhdfQ==
+eyJoaXN0b3J5IjpbMTk2Mjg1NzQ4MiwtMTkyMDg1NzM4MiwtMT
+k4MDc0MDQ3NSwxNDExNTUyMzg1LC0xNDk2NDgxMTkwLDY4MjE4
+OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0NTg4MTM1Nz
+csMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4NTA3ODM3MywxNDQ0
+ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3NzE1NzAsLTQwMTIzND
+MwNCwtODM4ODY2MzQyLDE3NzczMjk2NzQsOTkwMzE4NjA0LDEw
+NDgxMDUzMTNdfQ==
 -->
