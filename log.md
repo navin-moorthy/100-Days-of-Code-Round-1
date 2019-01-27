@@ -45,7 +45,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 17](#day-17) **20/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 18](#day-18) **21/01/19**| Quality of life Improvements |
 | [Day 19](#day-19) **22/01/19**| The Web Developer Bootcamp - Till Bootstrap |[Day 20](#day-20) **23/01/19**| The Web Developer Bootcamp - Till Javascript last project |
 |[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - jQuery |[Day 22](#day-22) **25/01/19**| The Web Developer Bootcamp - jQuery |
-|[Day 23](#day-23) **26/01/19**| The Web Developer Bootcamp - Advanced jQuery |
+|[Day 23](#day-23) **26/01/19**| The Web Developer Bootcamp - Advanced jQuery |[Day 24](#day-24) **27/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
 
 <!-- ---
 <a name="day-"></a>
@@ -63,6 +63,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
+<a name="day-24"></a>
+
+## Day 24: January-27-2019
+
+#### Today's Focus: The Web Developer Bootcamp - jQuery
+#### Completed:
+- Halfway through ToDo List Project using jQuery
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
+
+---
 <a name="day-23"></a>
 
 ## Day 23: January-26-2019
@@ -77,7 +88,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Learned remove() method
 
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
-
 
 ---
 <a name="day-22"></a>
