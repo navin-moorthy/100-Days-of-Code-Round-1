@@ -71,7 +71,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed: 
 - Completed writing 2nd post.
-- Updated the same in my dev  
+- Updated the same in my dev site.
+- Did some quality of life improvements. 
 
 [Table of Contents](#toc)
 
@@ -492,11 +493,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzIwMDQ0MywxOTYyODU3NDgyLC0xOT
-IwODU3MzgyLC0xOTgwNzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0
-ODExOTAsNjgyMTg5NzMxLC00NjQwMzM2MDksMTQ1NTI3MjMyOS
-wtMTQ1ODgxMzU3NywxMzcyMTgyMDk4LDE1Mzc0OTgxNDksNTg1
-MDc4MzczLDE0NDQ4NzAzODEsMTM1ODQyMzczNywtMTYwNTc3MT
-U3MCwtNDAxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMyOTY3NCw5
-OTAzMTg2MDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDYwODQ4MDMsMTk2Mjg1NzQ4MiwtMT
+kyMDg1NzM4MiwtMTk4MDc0MDQ3NSwxNDExNTUyMzg1LC0xNDk2
+NDgxMTkwLDY4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMj
+ksLTE0NTg4MTM1NzcsMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4
+NTA3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3Nz
+E1NzAsLTQwMTIzNDMwNCwtODM4ODY2MzQyLDE3NzczMjk2NzQs
+OTkwMzE4NjA0XX0=
 -->
