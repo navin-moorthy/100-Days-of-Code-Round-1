@@ -67,11 +67,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day : January--2019
 
-#### Today's Focus: 
+#### Today's Focus: VANUSS
 
 #### Completed:
-
-#### Link to Work:
 
 [Table of Contents](#toc)
 
@@ -492,11 +490,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MzQzMjI2LDE5NjI4NTc0ODIsLTE5Mj
-A4NTczODIsLTE5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4
-MTE5MCw2ODIxODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC
-0xNDU4ODEzNTc3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUw
-NzgzNzMsMTQ0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNT
-cwLC00MDEyMzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5
-MDMxODYwNF19
+eyJoaXN0b3J5IjpbLTkxNzc2MzU1OCwxOTYyODU3NDgyLC0xOT
+IwODU3MzgyLC0xOTgwNzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0
+ODExOTAsNjgyMTg5NzMxLC00NjQwMzM2MDksMTQ1NTI3MjMyOS
+wtMTQ1ODgxMzU3NywxMzcyMTgyMDk4LDE1Mzc0OTgxNDksNTg1
+MDc4MzczLDE0NDQ4NzAzODEsMTM1ODQyMzczNywtMTYwNTc3MT
+U3MCwtNDAxMjM0MzA0LC04Mzg4NjYzNDIsMTc3NzMyOTY3NCw5
+OTAzMTg2MDRdfQ==
 -->
