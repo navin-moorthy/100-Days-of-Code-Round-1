@@ -67,9 +67,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day : January--2019
 
-#### Today's Focus: VANUSS
+#### Today's Focus: VANUSS - 2nd Post Preparation
 
-#### Completed:
+#### Completed: 
+- Completed writing 2nd post.
+- Updated the same in my dev  
 
 [Table of Contents](#toc)
 
@@ -490,7 +492,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzc2MzU1OCwxOTYyODU3NDgyLC0xOT
+eyJoaXN0b3J5IjpbMTY3NzIwMDQ0MywxOTYyODU3NDgyLC0xOT
 IwODU3MzgyLC0xOTgwNzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0
 ODExOTAsNjgyMTg5NzMxLC00NjQwMzM2MDksMTQ1NTI3MjMyOS
 wtMTQ1ODgxMzU3NywxMzcyMTgyMDk4LDE1Mzc0OTgxNDksNTg1
