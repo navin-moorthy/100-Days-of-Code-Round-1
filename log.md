@@ -63,9 +63,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
  ---
-<a name="day-"></a>
+<a name="day-25"></a>
 
-## Day : January--2019
+## Day 25: January-28-2019
 
 #### Today's Focus: VANUSS - 2nd Post Preparation
 
@@ -493,11 +493,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYwODQ4MDMsMTk2Mjg1NzQ4MiwtMT
-kyMDg1NzM4MiwtMTk4MDc0MDQ3NSwxNDExNTUyMzg1LC0xNDk2
-NDgxMTkwLDY4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMj
-ksLTE0NTg4MTM1NzcsMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4
-NTA3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3Nz
-E1NzAsLTQwMTIzNDMwNCwtODM4ODY2MzQyLDE3NzczMjk2NzQs
-OTkwMzE4NjA0XX0=
+eyJoaXN0b3J5IjpbOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5Mj
+A4NTczODIsLTE5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4
+MTE5MCw2ODIxODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC
+0xNDU4ODEzNTc3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUw
+NzgzNzMsMTQ0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNT
+cwLC00MDEyMzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5
+MDMxODYwNF19
 -->
