@@ -46,6 +46,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 19](#day-19) **22/01/19**| The Web Developer Bootcamp - Till Bootstrap |[Day 20](#day-20) **23/01/19**| The Web Developer Bootcamp - Till Javascript last project |
 |[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - jQuery |[Day 22](#day-22) **25/01/19**| The Web Developer Bootcamp - jQuery |
 |[Day 23](#day-23) **26/01/19**| The Web Developer Bootcamp - Advanced jQuery |[Day 24](#day-24) **27/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
+|[Day 25](#day-25) **28/01/19**| VANUSS - 2nd Post Preparation |
 
 <!-- ---
 <a name="day-"></a>
@@ -493,11 +494,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5Mj
-A4NTczODIsLTE5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4
-MTE5MCw2ODIxODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC
-0xNDU4ODEzNTc3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUw
-NzgzNzMsMTQ0NDg3MDM4MSwxMzU4NDIzNzM3LC0xNjA1NzcxNT
-cwLC00MDEyMzQzMDQsLTgzODg2NjM0MiwxNzc3MzI5Njc0LDk5
-MDMxODYwNF19
+eyJoaXN0b3J5IjpbLTMyNTI2MjQ3LDk3MDk0MzI0MSwxOTYyOD
+U3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQwNDc1LDE0MTE1NTIz
+ODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00NjQwMzM2MDksMT
+Q1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgyMDk4LDE1Mzc0
+OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1ODQyMzczNy
+wtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04Mzg4NjYzNDIsMTc3
+NzMyOTY3NF19
 -->
