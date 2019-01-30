@@ -71,9 +71,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: VANUSS - Git Auto deployment using webhook
 
 #### Completed: 
-- Completed writing 2nd post.
-- Updated the same in my dev site.
-- Did some quality of life improvements. 
+- Git auto pull using GitHub webhooks 
 
 [Table of Contents](#toc)
 
@@ -85,7 +83,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: VANUSS - Improvements to the site
 
 #### Completed: 
-- 
+- Worked on simplifying the code.
 
 [Table of Contents](#toc)
 
@@ -520,11 +518,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc2OTczMzEsLTMyNTI2MjQ3LDk3MD
-k0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQw
-NDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC
-00NjQwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcy
-MTgyMDk4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzOD
-EsMTM1ODQyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04
-Mzg4NjYzNDJdfQ==
+eyJoaXN0b3J5IjpbMTI0MDM5NzY3NiwtMzI1MjYyNDcsOTcwOT
+QzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLTE5ODA3NDA0
+NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIxODk3MzEsLT
+Q2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNTc3LDEzNzIx
+ODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0NDg3MDM4MS
+wxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQzMDQsLTgz
+ODg2NjM0Ml19
 -->
