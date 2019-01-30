@@ -47,7 +47,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - jQuery |[Day 22](#day-22) **25/01/19**| The Web Developer Bootcamp - jQuery |
 |[Day 23](#day-23) **26/01/19**| The Web Developer Bootcamp - Advanced jQuery |[Day 24](#day-24) **27/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
 |[Day 25](#day-25) **28/01/19**| VANUSS - 2nd Post Preparation |[Day 26](#day-26) **29/01/19**| VANUSS - Improvements to the site |
-|[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhooks |
+|[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |
 <!-- ---
 <a name="day-"></a>
 
@@ -62,6 +62,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+ ---
+<a name="day-27"></a>
+
+## Day 27: January-30-2019
+
+#### Today's Focus: VANUSS - Git Auto deployment using webhook
+
+#### Completed: 
+- Completed writing 2nd post.
+- Updated the same in my dev site.
+- Did some quality of life improvements. 
+
+[Table of Contents](#toc)
+
+ ---
+<a name="day-26"></a>
+
+## Day 26: January-29-2019
+
+#### Today's Focus: VANUSS - Improvements to the site
+
+#### Completed: 
+- 
+
+[Table of Contents](#toc)
 
  ---
 <a name="day-25"></a>
@@ -494,11 +520,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Njg0MTQyNywtMzI1MjYyNDcsOTcwOT
-QzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLTE5ODA3NDA0
-NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIxODk3MzEsLT
-Q2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNTc3LDEzNzIx
-ODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0NDg3MDM4MS
-wxMzU4NDIzNzM3LC0xNjA1NzcxNTcwLC00MDEyMzQzMDQsLTgz
-ODg2NjM0Ml19
+eyJoaXN0b3J5IjpbLTE5NDc2OTczMzEsLTMyNTI2MjQ3LDk3MD
+k0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQw
+NDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC
+00NjQwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcy
+MTgyMDk4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzOD
+EsMTM1ODQyMzczNywtMTYwNTc3MTU3MCwtNDAxMjM0MzA0LC04
+Mzg4NjYzNDJdfQ==
 -->
