@@ -47,7 +47,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - jQuery |[Day 22](#day-22) **25/01/19**| The Web Developer Bootcamp - jQuery |
 |[Day 23](#day-23) **26/01/19**| The Web Developer Bootcamp - Advanced jQuery |[Day 24](#day-24) **27/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
 |[Day 25](#day-25) **28/01/19**| VANUSS - 2nd Post Preparation |[Day 26](#day-26) **29/01/19**| VANUSS - Improvements to the site |
-|[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |[Day 28](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |
+|[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |[Day 28](#day-28) **31/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
 
 
 <!-- ---
@@ -531,7 +531,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzUxMTQzMCwxMjQwMzk3Njc2LC0zMj
+eyJoaXN0b3J5IjpbMTYxMjE1NzQxMSwxMjQwMzk3Njc2LC0zMj
 UyNjI0Nyw5NzA5NDMyNDEsMTk2Mjg1NzQ4MiwtMTkyMDg1NzM4
 MiwtMTk4MDc0MDQ3NSwxNDExNTUyMzg1LC0xNDk2NDgxMTkwLD
 Y4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0NTg4
