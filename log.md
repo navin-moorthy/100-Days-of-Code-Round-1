@@ -76,6 +76,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
 
+[Table of Contents](#toc)
+
  ---
 <a name="day-27"></a>
 
@@ -531,11 +533,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjE1NzQxMSwxMjQwMzk3Njc2LC0zMj
-UyNjI0Nyw5NzA5NDMyNDEsMTk2Mjg1NzQ4MiwtMTkyMDg1NzM4
-MiwtMTk4MDc0MDQ3NSwxNDExNTUyMzg1LC0xNDk2NDgxMTkwLD
-Y4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0NTg4
-MTM1NzcsMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4NTA3ODM3My
-wxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLTE2MDU3NzE1NzAsLTQw
-MTIzNDMwNF19
+eyJoaXN0b3J5IjpbLTIwNjc4MDM3NzAsMTYxMjE1NzQxMSwxMj
+QwMzk3Njc2LC0zMjUyNjI0Nyw5NzA5NDMyNDEsMTk2Mjg1NzQ4
+MiwtMTkyMDg1NzM4MiwtMTk4MDc0MDQ3NSwxNDExNTUyMzg1LC
+0xNDk2NDgxMTkwLDY4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUy
+NzIzMjksLTE0NTg4MTM1NzcsMTM3MjE4MjA5OCwxNTM3NDk4MT
+Q5LDU4NTA3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLTE2
+MDU3NzE1NzBdfQ==
 -->
