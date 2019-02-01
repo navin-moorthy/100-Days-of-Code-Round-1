@@ -65,6 +65,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 [Table of Contents](#toc) -->
 
+
+
 ---
 <a name="day-28"></a>
 
@@ -533,11 +535,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc4MDM3NzAsMTYxMjE1NzQxMSwxMj
-QwMzk3Njc2LC0zMjUyNjI0Nyw5NzA5NDMyNDEsMTk2Mjg1NzQ4
-MiwtMTkyMDg1NzM4MiwtMTk4MDc0MDQ3NSwxNDExNTUyMzg1LC
-0xNDk2NDgxMTkwLDY4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUy
-NzIzMjksLTE0NTg4MTM1NzcsMTM3MjE4MjA5OCwxNTM3NDk4MT
-Q5LDU4NTA3ODM3MywxNDQ0ODcwMzgxLDEzNTg0MjM3MzcsLTE2
-MDU3NzE1NzBdfQ==
+eyJoaXN0b3J5IjpbMTA2MzUyOTc3MCwtMjA2NzgwMzc3MCwxNj
+EyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LDk3MDk0MzI0
+MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQwNDc1LD
+E0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00NjQw
+MzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgyMD
+k4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1
+ODQyMzczN119
 -->
