@@ -48,7 +48,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 23](#day-23) **26/01/19**| The Web Developer Bootcamp - Advanced jQuery |[Day 24](#day-24) **27/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
 |[Day 25](#day-25) **28/01/19**| VANUSS - 2nd Post Preparation |[Day 26](#day-26) **29/01/19**| VANUSS - Improvements to the site |
 |[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |[Day 28](#day-28) **31/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
-
+[Day 29](#day-29) **01/02/19**| The Web Developer Bootcamp - Patatap Clone Project |
 
 <!-- ---
 <a name="day-"></a>
@@ -65,7 +65,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 [Table of Contents](#toc) -->
 
+---
+<a name="day-28"></a>
 
+## Day 28: January-31-2019
+
+#### Today's Focus: The Web Developer Bootcamp - Patatap Clone Project
+#### Completed:
+- Completed the Patatap Clone Project using Paper js and Howler js
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-28"></a>
@@ -535,11 +546,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzUyOTc3MCwtMjA2NzgwMzc3MCwxNj
-EyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LDk3MDk0MzI0
-MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQwNDc1LD
-E0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00NjQw
-MzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgyMD
-k4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1
-ODQyMzczN119
+eyJoaXN0b3J5IjpbMTA3NDAxODk2LC0yMDY3ODAzNzcwLDE2MT
+IxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYyNDcsOTcwOTQzMjQx
+LDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLTE5ODA3NDA0NzUsMT
+QxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIxODk3MzEsLTQ2NDAz
+MzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNTc3LDEzNzIxODIwOT
+gsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0NDg3MDM4MSwxMzU4
+NDIzNzM3XX0=
 -->
