@@ -66,9 +66,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
-<a name="day-28"></a>
+<a name="day-29"></a>
 
-## Day 28: January-31-2019
+## Day 29: February-01-2019
 
 #### Today's Focus: The Web Developer Bootcamp - Patatap Clone Project
 #### Completed:
@@ -546,11 +546,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDAxODk2LC0yMDY3ODAzNzcwLDE2MT
-IxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYyNDcsOTcwOTQzMjQx
-LDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLTE5ODA3NDA0NzUsMT
-QxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIxODk3MzEsLTQ2NDAz
-MzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNTc3LDEzNzIxODIwOT
-gsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0NDg3MDM4MSwxMzU4
-NDIzNzM3XX0=
+eyJoaXN0b3J5IjpbMTMyMjY1NTg5OSwtMjA2NzgwMzc3MCwxNj
+EyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LDk3MDk0MzI0
+MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQwNDc1LD
+E0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00NjQw
+MzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3NywxMzcyMTgyMD
+k4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0NDQ4NzAzODEsMTM1
+ODQyMzczN119
 -->
