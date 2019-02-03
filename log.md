@@ -77,6 +77,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/24_Node%20JS)
 
+[Table of Contents](#toc)
+
 ---
 <a name="day-30"></a>
 
