@@ -73,7 +73,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus: Pico CTF 2017
 #### Completed:
-- Completed Sorandom, Programmer's Assemble and Guess the Number Challenege
+- Completed Sorandom, Programmer's Assemble and Guess the Number Challeneges
 
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
@@ -599,7 +599,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk0MDEzNTYsLTI5MDA4MjI4NSwxMz
+eyJoaXN0b3J5IjpbLTEyNjcxODg3OTMsLTI5MDA4MjI4NSwxMz
 IyNjU1ODk5LC0yMDY3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5
 NzY3NiwtMzI1MjYyNDcsOTcwOTQzMjQxLDE5NjI4NTc0ODIsLT
 E5MjA4NTczODIsLTE5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5
