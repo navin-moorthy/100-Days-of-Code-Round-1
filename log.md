@@ -41,7 +41,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 9](#day-9) **12/01/19**| Busy Day|[Day 10](#day-10) **13/01/19**| Pico CTF 2017|
 | [Day 11](#day-11) **14/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 12](#day-12) **15/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
 | [Day 13](#day-13) **16/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 14](#day-14) **17/01/19**| Pico CTF 2017|
-[Day 15](#day-15) **18/01/19**| Pico CTF 2017|[Day 16](#day-16) **19/01/19**| Pico CTF 2017|
+|[Day 15](#day-15) **18/01/19**| Pico CTF 2017|[Day 16](#day-16) **19/01/19**| Pico CTF 2017|
 | [Day 17](#day-17) **20/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 18](#day-18) **21/01/19**| Quality of life Improvements |
 | [Day 19](#day-19) **22/01/19**| The Web Developer Bootcamp - Till Bootstrap |[Day 20](#day-20) **23/01/19**| The Web Developer Bootcamp - Till Javascript last project |
 |[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - jQuery |[Day 22](#day-22) **25/01/19**| The Web Developer Bootcamp - jQuery |
@@ -49,8 +49,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 25](#day-25) **28/01/19**| VANUSS - 2nd Post Preparation |[Day 26](#day-26) **29/01/19**| VANUSS - Improvements to the site |
 |[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |[Day 28](#day-28) **31/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
 |[Day 29](#day-29) **01/02/19**| The Web Developer Bootcamp - Patatap Clone Project |[Day 30](#day-30) **02/02/19**| The Web Developer Bootcamp - Intro to Backend |
-|[Day 31](#day-31) **03/02/19**| The Web Developer Bootcamp - Intro to Node and NPM |
-
+|[Day 31](#day-31) **03/02/19**| The Web Developer Bootcamp - Intro to Node and NPM |[Day 3](#day-16) **19/01/19**| Pico CTF 2017|
+|[Day 15](#day-15) **18/01/19**| Pico CTF 2017|
 <!-- ---
 <a name="day-"></a>
 
@@ -599,11 +599,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjM0MzU0NCwxMzIyNjU1ODk5LC0yMD
-Y3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYy
-NDcsOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLT
-E5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIx
-ODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNT
-c3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0
-NDg3MDM4MV19
+eyJoaXN0b3J5IjpbLTE4NzA2ODQ2OTksMTMyMjY1NTg5OSwtMj
+A2NzgwMzc3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2
+MjQ3LDk3MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC
+0xOTgwNzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgy
+MTg5NzMxLC00NjQwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMz
+U3NywxMzcyMTgyMDk4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0
+NDQ4NzAzODFdfQ==
 -->
