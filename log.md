@@ -73,7 +73,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus: Pico CTF 2017
 #### Completed:
-- Learned the basics of Node and NPM and some fun excercises.
+- Completed Meta find me and Little School Bus Challanege
 
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/24_Node%20JS)
 
@@ -586,11 +586,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NTYyNjQzLDEzMjI2NTU4OTksLTIwNj
-c4MDM3NzAsMTYxMjE1NzQxMSwxMjQwMzk3Njc2LC0zMjUyNjI0
-Nyw5NzA5NDMyNDEsMTk2Mjg1NzQ4MiwtMTkyMDg1NzM4MiwtMT
-k4MDc0MDQ3NSwxNDExNTUyMzg1LC0xNDk2NDgxMTkwLDY4MjE4
-OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0NTg4MTM1Nz
-csMTM3MjE4MjA5OCwxNTM3NDk4MTQ5LDU4NTA3ODM3MywxNDQ0
-ODcwMzgxXX0=
+eyJoaXN0b3J5IjpbLTcwOTM4MDM5OSwxMzIyNjU1ODk5LC0yMD
+Y3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYy
+NDcsOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLT
+E5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIx
+ODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNT
+c3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0
+NDg3MDM4MV19
 -->
