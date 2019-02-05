@@ -73,9 +73,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus: Pico CTF 2017
 #### Completed:
-- Completed Meta find me and Little School Bus Challanege
+- Completed Meta find me and Little School Bus Challenege
 
-#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/24_Node%20JS)
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+
+[Table of Contents](#toc)
+
+---
+<a name="day-32"></a>
+
+## Day 32: February-04-2019
+
+#### Today's Focus: Pico CTF 2017
+#### Completed:
+- Completed Meta find me and Little School Bus Challenege
+
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 [Table of Contents](#toc)
 
@@ -586,7 +599,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTM4MDM5OSwxMzIyNjU1ODk5LC0yMD
+eyJoaXN0b3J5IjpbLTg1MjY3OTE2NCwxMzIyNjU1ODk5LC0yMD
 Y3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYy
 NDcsOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLT
 E5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIx
