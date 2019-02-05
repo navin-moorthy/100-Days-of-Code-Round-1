@@ -49,8 +49,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 25](#day-25) **28/01/19**| VANUSS - 2nd Post Preparation |[Day 26](#day-26) **29/01/19**| VANUSS - Improvements to the site |
 |[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |[Day 28](#day-28) **31/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
 |[Day 29](#day-29) **01/02/19**| The Web Developer Bootcamp - Patatap Clone Project |[Day 30](#day-30) **02/02/19**| The Web Developer Bootcamp - Intro to Backend |
-|[Day 31](#day-31) **03/02/19**| The Web Developer Bootcamp - Intro to Node and NPM |[Day 3](#day-16) **19/01/19**| Pico CTF 2017|
-|[Day 15](#day-15) **18/01/19**| Pico CTF 2017|
+|[Day 31](#day-31) **03/02/19**| The Web Developer Bootcamp - Intro to Node and NPM |[Day 32](#day-32) **04/02/19**| Pico CTF 2017|
+|[Day 33](#day-33) **05/02/19**| Pico CTF 2017|
 <!-- ---
 <a name="day-"></a>
 
@@ -599,11 +599,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA2ODQ2OTksMTMyMjY1NTg5OSwtMj
-A2NzgwMzc3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2
-MjQ3LDk3MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC
-0xOTgwNzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgy
-MTg5NzMxLC00NjQwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMz
-U3NywxMzcyMTgyMDk4LDE1Mzc0OTgxNDksNTg1MDc4MzczLDE0
-NDQ4NzAzODFdfQ==
+eyJoaXN0b3J5IjpbLTI5MDA4MjI4NSwxMzIyNjU1ODk5LC0yMD
+Y3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYy
+NDcsOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLT
+E5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIx
+ODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNT
+c3LDEzNzIxODIwOTgsMTUzNzQ5ODE0OSw1ODUwNzgzNzMsMTQ0
+NDg3MDM4MV19
 -->
