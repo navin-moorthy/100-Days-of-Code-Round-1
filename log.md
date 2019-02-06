@@ -50,7 +50,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |[Day 28](#day-28) **31/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
 |[Day 29](#day-29) **01/02/19**| The Web Developer Bootcamp - Patatap Clone Project |[Day 30](#day-30) **02/02/19**| The Web Developer Bootcamp - Intro to Backend |
 |[Day 31](#day-31) **03/02/19**| The Web Developer Bootcamp - Intro to Node and NPM |[Day 32](#day-32) **04/02/19**| Pico CTF 2017|
-|[Day 33](#day-33) **05/02/19**| Pico CTF 2017||[Day 33](#day-33) **05/02/19**| Pico CTF 2017|
+|[Day 33](#day-33) **05/02/19**| Pico CTF 2017|[Day 34](#day-34) **06/02/19**| Pico CTF 2017|
 <!-- ---
 <a name="day-"></a>
 
@@ -65,6 +65,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-34"></a>
+
+## Day 34: February-06-2019
+
+#### Today's Focus: Pico CTF 2017
+#### Completed:
+- Finished all the Level 2 Challenges and Ready for the Master Challenge.
+
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-33"></a>
@@ -599,7 +612,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1NjI2NzAzLC0xMjY3MTg4NzkzLC0yOT
+eyJoaXN0b3J5IjpbNDc1MzM4NjgwLC0xMjY3MTg4NzkzLC0yOT
 AwODIyODUsMTMyMjY1NTg5OSwtMjA2NzgwMzc3MCwxNjEyMTU3
 NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LDk3MDk0MzI0MSwxOT
 YyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQwNDc1LDE0MTE1
