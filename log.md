@@ -80,6 +80,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc)
 
 ---
+<a name="day-34"></a>
+
+## Day 34: February-06-2019
+
+#### Today's Focus: Pico CTF 2017
+#### Completed:
+- Finished all the Level 2 Challenges and Ready for the Master Challenge.
+
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+
+[Table of Contents](#toc)
+
+---
 <a name="day-33"></a>
 
 ## Day 33: February-05-2019
@@ -612,7 +625,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MzM4NjgwLC0xMjY3MTg4NzkzLC0yOT
+eyJoaXN0b3J5IjpbNzc0NTczMzIyLC0xMjY3MTg4NzkzLC0yOT
 AwODIyODUsMTMyMjY1NTg5OSwtMjA2NzgwMzc3MCwxNjEyMTU3
 NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LDk3MDk0MzI0MSwxOT
 YyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQwNDc1LDE0MTE1
