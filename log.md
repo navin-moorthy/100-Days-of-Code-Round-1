@@ -51,7 +51,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 29](#day-29) **01/02/19**| The Web Developer Bootcamp - Patatap Clone Project |[Day 30](#day-30) **02/02/19**| The Web Developer Bootcamp - Intro to Backend |
 |[Day 31](#day-31) **03/02/19**| The Web Developer Bootcamp - Intro to Node and NPM |[Day 32](#day-32) **04/02/19**| Pico CTF 2017|
 |[Day 33](#day-33) **05/02/19**| Pico CTF 2017|[Day 34](#day-34) **06/02/19**| Pico CTF 2017|
-|[Day 35](#day-35) **07/02/19**| Pico CTF 2017[Day 36](#day-36) **08/02/19**| Pico CTF 2017|
+|[Day 35](#day-35) **07/02/19**| Pico CTF 2017| [Day 36](#day-36) **08/02/19**| Pico CTF 2017|
 |[Day 37](#day-37) **09/02/19**| Pico CTF 2017|
 <!-- ---
 <a name="day-"></a>
@@ -645,11 +645,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NTU1NjQyLC0yMDYzNDU3NzYsLTEyNj
-cxODg3OTMsLTI5MDA4MjI4NSwxMzIyNjU1ODk5LC0yMDY3ODAz
-NzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYyNDcsOT
-cwOTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLTE5ODA3
-NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIxODk3Mz
-EsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0xNDU4ODEzNTc3LDEz
-NzIxODIwOThdfQ==
+eyJoaXN0b3J5IjpbMTQ0MTk2MDkyNiwtMjA2MzQ1Nzc2LC0xMj
+Y3MTg4NzkzLC0yOTAwODIyODUsMTMyMjY1NTg5OSwtMjA2Nzgw
+Mzc3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LD
+k3MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgw
+NzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5Nz
+MxLC00NjQwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3Nywx
+MzcyMTgyMDk4XX0=
 -->
