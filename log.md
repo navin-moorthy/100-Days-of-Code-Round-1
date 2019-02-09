@@ -72,7 +72,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Day 37: February-09-2019
 #### Today's Focus: Pico CTF 2017
 #### Completed:
-- Finished NoEyes Challenge.. 
+- Finished Config Console Challenge.. 
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 [Table of Contents](#toc)
 
@@ -644,7 +644,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDY4OTUwMywtMjA2MzQ1Nzc2LC0xMj
+eyJoaXN0b3J5IjpbMTk3NjMxMjA3MywtMjA2MzQ1Nzc2LC0xMj
 Y3MTg4NzkzLC0yOTAwODIyODUsMTMyMjY1NTg5OSwtMjA2Nzgw
 Mzc3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LD
 k3MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgw
