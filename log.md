@@ -66,12 +66,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
 ---
-<a name="day-35"></a>
-## Day 35: February-07-2019
+<a name="day-36"></a>
+## Day 36: February-08-2019
 #### Today's Focus: Pico CTF 2017
-#### Completed:- Finished 6 Level 2 Challenges.
-#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)[Table of Contents](#toc)
+#### Completed:
+- Finished NoEyes Challenge.. 
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+[Table of Contents](#toc)
 
 ---
 <a name="day-35"></a>
@@ -632,7 +635,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTQ1ODM3MiwtMjA2MzQ1Nzc2LC0xMj
+eyJoaXN0b3J5IjpbMTU4NDMyMjE4MywtMjA2MzQ1Nzc2LC0xMj
 Y3MTg4NzkzLC0yOTAwODIyODUsMTMyMjY1NTg5OSwtMjA2Nzgw
 Mzc3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LD
 k3MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgw
