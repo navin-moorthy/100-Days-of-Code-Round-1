@@ -53,7 +53,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 33](#day-33) **05/02/19**| Pico CTF 2017|[Day 34](#day-34) **06/02/19**| Pico CTF 2017|
 |[Day 35](#day-35) **07/02/19**| Pico CTF 2017| [Day 36](#day-36) **08/02/19**| Pico CTF 2017|
 |[Day 37](#day-37) **09/02/19**| Pico CTF 2017|[Day 38](#day-38) **12/02/19**| Pico CTF 2017|
-|[Day 39](#day-39) **13/02/19**|
+|[Day 39](#day-39) **13/02/19**| Pico CTF 2017|
 
 <!-- ---
 <a name="day-"></a>
