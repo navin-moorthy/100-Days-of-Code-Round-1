@@ -53,6 +53,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 33](#day-33) **05/02/19**| Pico CTF 2017|[Day 34](#day-34) **06/02/19**| Pico CTF 2017|
 |[Day 35](#day-35) **07/02/19**| Pico CTF 2017| [Day 36](#day-36) **08/02/19**| Pico CTF 2017|
 |[Day 37](#day-37) **09/02/19**| Pico CTF 2017|[Day 38](#day-38) **12/02/19**| Pico CTF 2017|
+|[Day 39](#day-39) **13/02/19**|
+
 <!-- ---
 <a name="day-"></a>
 
@@ -67,6 +69,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-39"></a>
+
+## Day 39: February-13-2019
+
+#### Today's Focus: Pico CTF 2017
+#### Completed:
+- Finished all Level 3 Challenges.
+
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+
+![Challenge Screenshot](https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/%23100DayOfCode_Day39.PNG)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-38"></a>
