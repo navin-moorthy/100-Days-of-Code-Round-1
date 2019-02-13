@@ -79,7 +79,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
-![Challenge Screen](images/#100DayOfCode_Day38.PNG)
+![Challenge Screenshot](images/#100DayOfCode_Day38.PNG)
 
 [Table of Contents](#toc)
 
@@ -660,7 +660,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTc3MzUyNCwxNDQxOTYwOTI2LC0yMD
+eyJoaXN0b3J5IjpbMTI3Mjg3MjczMCwxNDQxOTYwOTI2LC0yMD
 YzNDU3NzYsLTEyNjcxODg3OTMsLTI5MDA4MjI4NSwxMzIyNjU1
 ODk5LC0yMDY3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3Ni
 wtMzI1MjYyNDcsOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4
