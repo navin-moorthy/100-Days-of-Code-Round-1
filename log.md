@@ -79,6 +79,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
+![Challenge Screen](images/#100DayOfCode_Day38.PNG)
+
 [Table of Contents](#toc)
 
 ---
@@ -658,11 +660,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NTg0NTM3LDE0NDE5NjA5MjYsLTIwNj
-M0NTc3NiwtMTI2NzE4ODc5MywtMjkwMDgyMjg1LDEzMjI2NTU4
-OTksLTIwNjc4MDM3NzAsMTYxMjE1NzQxMSwxMjQwMzk3Njc2LC
-0zMjUyNjI0Nyw5NzA5NDMyNDEsMTk2Mjg1NzQ4MiwtMTkyMDg1
-NzM4MiwtMTk4MDc0MDQ3NSwxNDExNTUyMzg1LC0xNDk2NDgxMT
-kwLDY4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0
-NTg4MTM1NzddfQ==
+eyJoaXN0b3J5IjpbMTU3MTc3MzUyNCwxNDQxOTYwOTI2LC0yMD
+YzNDU3NzYsLTEyNjcxODg3OTMsLTI5MDA4MjI4NSwxMzIyNjU1
+ODk5LC0yMDY3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3Ni
+wtMzI1MjYyNDcsOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4
+NTczODIsLTE5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MT
+E5MCw2ODIxODk3MzEsLTQ2NDAzMzYwOSwxNDU1MjcyMzI5LC0x
+NDU4ODEzNTc3XX0=
 -->
