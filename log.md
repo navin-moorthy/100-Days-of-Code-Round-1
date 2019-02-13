@@ -52,7 +52,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 31](#day-31) **03/02/19**| The Web Developer Bootcamp - Intro to Node and NPM |[Day 32](#day-32) **04/02/19**| Pico CTF 2017|
 |[Day 33](#day-33) **05/02/19**| Pico CTF 2017|[Day 34](#day-34) **06/02/19**| Pico CTF 2017|
 |[Day 35](#day-35) **07/02/19**| Pico CTF 2017| [Day 36](#day-36) **08/02/19**| Pico CTF 2017|
-|[Day 37](#day-37) **09/02/19**| Pico CTF 2017|
+|[Day 37](#day-37) **09/02/19**| Pico CTF 2017|[Day 38](#day-38) **12/02/19**| Pico CTF 2017|
 <!-- ---
 <a name="day-"></a>
 
@@ -67,6 +67,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-35"></a>
+
+## Day 35: February-07-2019
+
+#### Today's Focus: Pico CTF 2017
+#### Completed:
+- Finished 3 more Level 3 Challenges.
+
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-37"></a>
@@ -645,11 +658,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTk2MDkyNiwtMjA2MzQ1Nzc2LC0xMj
-Y3MTg4NzkzLC0yOTAwODIyODUsMTMyMjY1NTg5OSwtMjA2Nzgw
-Mzc3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LD
-k3MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgw
-NzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5Nz
-MxLC00NjQwMzM2MDksMTQ1NTI3MjMyOSwtMTQ1ODgxMzU3Nywx
-MzcyMTgyMDk4XX0=
+eyJoaXN0b3J5IjpbOTg3NTg0NTM3LDE0NDE5NjA5MjYsLTIwNj
+M0NTc3NiwtMTI2NzE4ODc5MywtMjkwMDgyMjg1LDEzMjI2NTU4
+OTksLTIwNjc4MDM3NzAsMTYxMjE1NzQxMSwxMjQwMzk3Njc2LC
+0zMjUyNjI0Nyw5NzA5NDMyNDEsMTk2Mjg1NzQ4MiwtMTkyMDg1
+NzM4MiwtMTk4MDc0MDQ3NSwxNDExNTUyMzg1LC0xNDk2NDgxMT
+kwLDY4MjE4OTczMSwtNDY0MDMzNjA5LDE0NTUyNzIzMjksLTE0
+NTg4MTM1NzddfQ==
 -->
