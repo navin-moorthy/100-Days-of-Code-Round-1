@@ -77,12 +77,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus: Pico CTF 2017
 #### Completed:
-- Finished all Level 3 Challenges.
+- Finished all Level 3 Challenges and started Level 4 Challenges.
+- Hard but I am learning somethhing new everyday.
 
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 ![Challenge Screenshot](https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/%23100DayOfCode_Day39.PNG)
-
+![Challenge Screenshot](https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_39%23100DoC.jpg)
 [Table of Contents](#toc)
 
 ---
