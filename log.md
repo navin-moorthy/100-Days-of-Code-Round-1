@@ -101,7 +101,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 <p align="center">
-<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_40%23100DoC.PNG">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_40%23100DoC.PNG"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -119,11 +119,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 <p align="center">
-<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/%23100DayOfCode_Day39.PNG">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/%23100DayOfCode_Day39.PNG"></kbd>
 </p>
 
 <p align="center">
-<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_39%23100DoC.jpg">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_39%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -140,7 +140,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 <p align="center">
-<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/%23100DayOfCode_Day38.PNG">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/%23100DayOfCode_Day38.PNG"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -717,11 +717,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 **Day 1 Overview of Images**
 
 <p align="center">
-<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/nn-100doc-d1-1.PNG">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/nn-100doc-d1-1.PNG"></kbd>
 </p>
 
 <p align="center">
-<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/nn-100doc-d1-2.jpg">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/nn-100doc-d1-2.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
