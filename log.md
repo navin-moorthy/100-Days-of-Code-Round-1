@@ -123,7 +123,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 </p>
 
 <p align="center">
-<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_39%23100DoC.PNG">
+<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_39%23100DoC.jpg">
 </p>
 
 [Table of Contents](#toc)
