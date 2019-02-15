@@ -82,7 +82,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
-<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_41%23100DoC.PNG" width="250" height="250">
+<img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_41%23100DoC.PNG" width="500" height="500">
 
 [Table of Contents](#toc)
 
