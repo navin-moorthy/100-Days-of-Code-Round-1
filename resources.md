@@ -39,3 +39,6 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzEwMDg0OTI0XX0=
+-->
