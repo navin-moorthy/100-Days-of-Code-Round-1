@@ -37,3 +37,6 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * My Daily log Repository is a combination of all three([Kallaway](https://github.com/kallaway/100-days-of-code), [Jasondown](https://github.com/jasondown/100-days-of-code), [James-Priest](https://github.com/james-priest/100-days-of-code-log)) repos. Thanks for these awesome log repositories.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTYyMjQwM119
+-->
