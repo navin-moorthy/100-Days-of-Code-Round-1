@@ -54,6 +54,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 35](#day-35) **07/02/19**| Pico CTF 2017| [Day 36](#day-36) **08/02/19**| Pico CTF 2017|
 |[Day 37](#day-37) **09/02/19**| Pico CTF 2017|[Day 38](#day-38) **12/02/19**| Pico CTF 2017|
 |[Day 39](#day-39) **13/02/19**| Pico CTF 2017|[Day 40](#day-40) **14/02/19**| Pico CTF 2017|
+|[Day 41](#day-41) **15/02/19**| Pico CTF 2017|
 
 <!-- ---
 <a name="day-"></a>
@@ -69,6 +70,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-41"></a>
+
+## Day 41: February-15-2019
+
+#### Today's Focus: Pico CTF 2017
+#### Completed:
+- Finished 3 more Level 4 Challenges.
+
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+
+![Challenge Screenshot](https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_41%23100DoC.PNG)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-40"></a>
