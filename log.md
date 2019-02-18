@@ -55,6 +55,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 37](#day-37) **09/02/19**| Pico CTF 2017|[Day 38](#day-38) **12/02/19**| Pico CTF 2017|
 |[Day 39](#day-39) **13/02/19**| Pico CTF 2017|[Day 40](#day-40) **14/02/19**| Pico CTF 2017|
 |[Day 41](#day-41) **15/02/19**| Pico CTF 2017|[Day 42](#day-42) **16/02/19**| Pico CTF 2017|
+|[Day 43](#day-43) **17/02/19**| Pico CTF 2017 Recap|
 
 <!-- ---
 <a name="day-"></a>
@@ -70,6 +71,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-43"></a>
+
+## Day 43: February-17-2019
+
+#### Today's Focus: Pico CTF 2017
+#### Completed:
+- Worked on some of the challenges which was so challenging.
+
+#### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-42"></a>
