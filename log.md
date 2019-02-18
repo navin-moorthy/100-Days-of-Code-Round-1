@@ -55,7 +55,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 37](#day-37) **09/02/19**| Pico CTF 2017|[Day 38](#day-38) **12/02/19**| Pico CTF 2017|
 |[Day 39](#day-39) **13/02/19**| Pico CTF 2017|[Day 40](#day-40) **14/02/19**| Pico CTF 2017|
 |[Day 41](#day-41) **15/02/19**| Pico CTF 2017|[Day 42](#day-42) **16/02/19**| Pico CTF 2017|
-|[Day 43](#day-43) **17/02/19**| Pico CTF 2017 Recap|
+|[Day 43](#day-43) **17/02/19**| Pico CTF 2017 Recap|[Day 44](#day-44) **18/02/19**| The Web Developer Bootcamp - Intro to Express|
 
 <!-- ---
 <a name="day-"></a>
@@ -71,6 +71,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-44"></a>
+
+## Day 44: February-18-2019
+
+#### Today's Focus: The Web Developer Bootcamp - Intro to Express
+#### Completed:
+- Learned the basics of Express and solved one exercise.
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/25_Server%20Side%20Frameworks)
+
+<p align="center">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_44%23100DoC.PNG"></kbd>
+</p>
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-43"></a>
