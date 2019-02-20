@@ -56,7 +56,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 39](#day-39) **13/02/19**| Pico CTF 2017|[Day 40](#day-40) **14/02/19**| Pico CTF 2017|
 |[Day 41](#day-41) **15/02/19**| Pico CTF 2017|[Day 42](#day-42) **16/02/19**| Pico CTF 2017|
 |[Day 43](#day-43) **17/02/19**| Pico CTF 2017 Recap|[Day 44](#day-44) **18/02/19**| The Web Developer Bootcamp - Intro to Express|
-|[Day 45](#day-45) **19/02/19**| The Web Developer Bootcamp - Intermediate Express|
+|[Day 45](#day-45) **19/02/19**| The Web Developer Bootcamp - Intermediate Express|[Day 46](#day-46) **20/02/19**| The Web Developer Bootcamp - Intro to API|
 
 <!-- ---
 <a name="day-"></a>
@@ -72,6 +72,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-46"></a>
+
+## Day 46: February-20-2019
+
+#### Today's Focus: The Web Developer Bootcamp - Into to API
+#### Completed:
+- Completed express and ejs in detail.
+- Started learning API.
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/26_Intermidate%20Express)
+
+<p align="center">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_46%23100DoC.jpg"></kbd>
+</p>
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-45"></a>
