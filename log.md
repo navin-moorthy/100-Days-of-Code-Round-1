@@ -82,7 +82,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: The Web Developer Bootcamp - YelpCamp Basics
 #### Completed:
 - Completed learning API.
-- Completed YelpCamp Basics
+- Completed Building YelpCamp Basics(V1).
 
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/28_YelpCamp_Basics)
 
