@@ -57,7 +57,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 41](#day-41) **15/02/19**| Pico CTF 2017|[Day 42](#day-42) **16/02/19**| Pico CTF 2017|
 |[Day 43](#day-43) **17/02/19**| Pico CTF 2017 Recap|[Day 44](#day-44) **18/02/19**| The Web Developer Bootcamp - Intro to Express|
 |[Day 45](#day-45) **19/02/19**| The Web Developer Bootcamp - Intermediate Express|[Day 46](#day-46) **20/02/19**| The Web Developer Bootcamp - Intro to API|
-|[Day 47](#day-47) **21/02/19**| The Web Developer Bootcamp - YelpCamp Basics|
+|[Day 47](#day-47) **21/02/19**| The Web Developer Bootcamp - YelpCamp Basics|[Day 48](#day-48) **22/02/19**| The Web Developer Bootcamp - Mongo DB|
 
 <!-- ---
 <a name="day-"></a>
@@ -73,6 +73,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-48"></a>
+
+## Day 48: February-22-2019
+
+#### Today's Focus: The Web Developer Bootcamp - Mongo DB
+#### Completed:
+- Learned Mongo DB
+- Integrated Mongo DB with Express using Mongoose
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/29_Databases)
+
+<p align="center">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_48%23100DoC.jpg"></kbd>
+</p>
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-47"></a>
