@@ -59,6 +59,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 45](#day-45) **19/02/19**| The Web Developer Bootcamp - Intermediate Express|[Day 46](#day-46) **20/02/19**| The Web Developer Bootcamp - Intro to API|
 |[Day 47](#day-47) **21/02/19**| The Web Developer Bootcamp - YelpCamp Basics|[Day 48](#day-48) **22/02/19**| The Web Developer Bootcamp - Mongo DB|
 |[Day 49](#day-49) **23/02/19**| The Web Developer Bootcamp - YelpCamp Data Persistence|[Day 50](#day-50) **24/02/19**| The Web Developer Bootcamp - RESTful Routes|
+|[Day 51](#day-51) **25/02/19**| The Web Developer Bootcamp - RESTful Routes|
 
 <!-- ---
 <a name="day-"></a>
@@ -74,6 +75,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-51"></a>
+
+## Day 51: February-25-2019
+
+#### Today's Focus: The Web Developer Bootcamp - RESTful Routes
+#### Completed:
+- Built the Blog Site using MEN Stack with RESTful Routes in picture.
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/31_RESTful_Routing)
+
+<p align="center">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_50%23100DoC.jpg"></kbd>
+</p>
+
+[Table of Contents](#toc)
+
 
 ---
 <a name="day-50"></a>
