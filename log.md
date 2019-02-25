@@ -89,7 +89,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/32_Data%20Associations)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_51%23100DoC.PNG"></kbd>
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_51%23100DoC..PNG"></kbd>
 </p>
 
 [Table of Contents](#toc)
