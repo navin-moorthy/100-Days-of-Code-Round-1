@@ -82,7 +82,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 53: February-27-2019
 
-#### Today's Focus: The Web Developer Bootcamp - Comments and Authentications
+#### Today's Focus: The Web Developer Bootcamp - Update and Destroy
 #### Completed:
 - Cleaned up the code a lot using Router
 - Added the Edit and Delete button to Comment and Campground Section.
