@@ -60,6 +60,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 47](#day-47) **21/02/19**| The Web Developer Bootcamp - YelpCamp Basics|[Day 48](#day-48) **22/02/19**| The Web Developer Bootcamp - Mongo DB|
 |[Day 49](#day-49) **23/02/19**| The Web Developer Bootcamp - YelpCamp Data Persistence|[Day 50](#day-50) **24/02/19**| The Web Developer Bootcamp - RESTful Routes|
 |[Day 51](#day-51) **25/02/19**| The Web Developer Bootcamp - Data Associations|[Day 52](#day-52) **26/02/19**| The Web Developer Bootcamp - Comments and Authentications|
+|[Day 53](#day-53) **27/02/19**| The Web Developer Bootcamp - Update and Destroy|
 
 <!-- ---
 <a name="day-"></a>
@@ -75,6 +76,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-53"></a>
+
+## Day 53: February-27-2019
+
+#### Today's Focus: The Web Developer Bootcamp - Comments and Authentications
+#### Completed:
+- Cleaned up the code a lot using Router
+- Added the Edit and Delete button to Comment and Campground Section.
+- Added the Authorisation to the above function so only logged in can do it.
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/37_YelpCamp:%20Update%20and%20Destroy)
+
+<p align="center">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_53%23100DoC.jpg"></kbd>
+</p>
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-52"></a>
@@ -93,7 +113,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 </p>
 
 [Table of Contents](#toc)
-
 
 ---
 <a name="day-51"></a>
