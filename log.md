@@ -87,7 +87,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Made some UI improvements to the site
 - Added the Full screen image animation to the landing page.
 
-#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/37_YelpCamp:%20Update%20and%20Destroy)
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/38_YelpCamp:%20UI%20Improvements)
 
 <p align="center">
 <kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_54%23100DoC.gif"></kbd>
