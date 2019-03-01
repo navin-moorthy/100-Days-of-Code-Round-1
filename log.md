@@ -60,7 +60,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 47](#day-47) **21/02/19**| The Web Developer Bootcamp - YelpCamp Basics|[Day 48](#day-48) **22/02/19**| The Web Developer Bootcamp - Mongo DB|
 |[Day 49](#day-49) **23/02/19**| The Web Developer Bootcamp - YelpCamp Data Persistence|[Day 50](#day-50) **24/02/19**| The Web Developer Bootcamp - RESTful Routes|
 |[Day 51](#day-51) **25/02/19**| The Web Developer Bootcamp - Data Associations|[Day 52](#day-52) **26/02/19**| The Web Developer Bootcamp - Comments and Authentications|
-|[Day 53](#day-53) **27/02/19**| The Web Developer Bootcamp - Update and Destroy|
+|[Day 53](#day-53) **27/02/19**| The Web Developer Bootcamp - Update and Destroy|[Day 54](#day-54) **28/02/19**| The Web Developer Bootcamp - UI Improvements|
 
 <!-- ---
 <a name="day-"></a>
@@ -76,6 +76,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-54"></a>
+
+## Day 54: February-28-2019
+
+#### Today's Focus: The Web Developer Bootcamp - UI Improvements
+#### Completed:
+- Made some UI improvements to the site
+- Added the Full screen image animation to the landing page.
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/37_YelpCamp:%20Update%20and%20Destroy)
+
+<p align="center">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_54%23100DoC.gif"></kbd>
+</p>
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-53"></a>
