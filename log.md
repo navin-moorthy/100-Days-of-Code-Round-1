@@ -76,20 +76,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Thoughts: 
 
----
-<a name="day-55"></a>
-
-## Day 55: March-1st-2019
-
-#### Today's Focus: The Web Developer Bootcamp - Added Functionalities
-#### Completed:
-- Added the Campground Location using Maps API and Gecoder API
-- Also added the moment JS to display the times ago details.
-
-#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
-
-[Table of Contents](#toc)
-
 [Table of Contents](#toc) -->
 
 ---
@@ -97,16 +83,30 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 56: March-2nd-2019
 
-#### Today's Focus: The Web Developer Bootcamp - Heroku Deployment
+#### Today's Focus: The Web Developer Bootcamp - Added Functionalities
 #### Completed:
-- Revisited Git and Github Basics 
-- Deployed the YelpCamp Project to Heroku
+- Added the Campground Location using Maps API and Gecoder API
+- Also added the moment JS to display the times ago details.
 
 #### Link to Work: [YelpCamp](https://intense-ravine-52214.herokuapp.com)
 
 <p align="center">
 <kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_56%23100DoC.jpg"></kbd>
 </p>
+
+[Table of Contents](#toc)
+
+---
+<a name="day-55"></a>
+
+## Day 55: March-1st-2019
+
+#### Today's Focus: The Web Developer Bootcamp - Heroku Deployment
+#### Completed:
+- Revisited Git and Github Basics 
+- Deployed the YelpCamp Project to Heroku
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
 
 [Table of Contents](#toc)
 
