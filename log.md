@@ -61,7 +61,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 49](#day-49) **23/02/19**| The Web Developer Bootcamp - YelpCamp Data Persistence|[Day 50](#day-50) **24/02/19**| The Web Developer Bootcamp - RESTful Routes|
 |[Day 51](#day-51) **25/02/19**| The Web Developer Bootcamp - Data Associations|[Day 52](#day-52) **26/02/19**| The Web Developer Bootcamp - Comments and Authentications|
 |[Day 53](#day-53) **27/02/19**| The Web Developer Bootcamp - Update and Destroy|[Day 54](#day-54) **28/02/19**| The Web Developer Bootcamp - UI Improvements|
-|[Day 55](#day-55) **01/03/19**| The Web Developer Bootcamp - Heroku Deployment|
+|[Day 55](#day-55) **01/03/19**| The Web Developer Bootcamp - Heroku Deployment|[Day 56](#day-56) **02/03/19**| The Web Developer Bootcamp - Added Functionalities|
 
 <!-- ---
 <a name="day-"></a>
@@ -76,19 +76,37 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Thoughts: 
 
-[Table of Contents](#toc) -->
-
 ---
 <a name="day-55"></a>
 
 ## Day 55: March-1st-2019
+
+#### Today's Focus: The Web Developer Bootcamp - Added Functionalities
+#### Completed:
+- Added the Campground Location using Maps API and Gecoder API
+- Also added the moment JS to display the times ago details.
+
+#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
+
+[Table of Contents](#toc)
+
+[Table of Contents](#toc) -->
+
+---
+<a name="day-56"></a>
+
+## Day 56: March-2nd-2019
 
 #### Today's Focus: The Web Developer Bootcamp - Heroku Deployment
 #### Completed:
 - Revisited Git and Github Basics 
 - Deployed the YelpCamp Project to Heroku
 
-#### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp)
+#### Link to Work: [YelpCamp](https://intense-ravine-52214.herokuapp.com)
+
+<p align="center">
+<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_56%23100DoC.jpg"></kbd>
+</p>
 
 [Table of Contents](#toc)
 
