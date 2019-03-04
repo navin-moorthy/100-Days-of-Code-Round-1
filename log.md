@@ -62,7 +62,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 51](#day-51) **25/02/19**| The Web Developer Bootcamp - Data Associations|[Day 52](#day-52) **26/02/19**| The Web Developer Bootcamp - Comments and Authentications|
 |[Day 53](#day-53) **27/02/19**| The Web Developer Bootcamp - Update and Destroy|[Day 54](#day-54) **28/02/19**| The Web Developer Bootcamp - UI Improvements|
 |[Day 55](#day-55) **01/03/19**| The Web Developer Bootcamp - Heroku Deployment|[Day 56](#day-56) **02/03/19**| The Web Developer Bootcamp - Added Functionalities|
-|[Day 57](#day-57) **03/03/19**| The Web Developer Bootcamp - Added Functionalities|
+|[Day 57](#day-57) **03/03/19**| The Web Developer Bootcamp - Added Functionalities|[Day 58](#day-58) **04/03/19**| Code With Node: Journey Started|
 
 <!-- ---
 <a name="day-"></a>
@@ -78,6 +78,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-58"></a>
+
+## Day 58: March-4th-2019
+
+#### Today's Focus: Code With Node: Journey Started
+#### Completed:
+- Working on my personal and Training Project
+- Started a new Udemy Course - Code with Node
+
+#### Link to Work: [Code With Node Notes](https://github.com/NavinNavi19/Code-With-Node-Ian)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-57"></a>
