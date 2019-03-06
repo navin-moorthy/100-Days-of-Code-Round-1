@@ -63,6 +63,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 53](#day-53) **27/02/19**| The Web Developer Bootcamp - Update and Destroy|[Day 54](#day-54) **28/02/19**| The Web Developer Bootcamp - UI Improvements|
 |[Day 55](#day-55) **01/03/19**| The Web Developer Bootcamp - Heroku Deployment|[Day 56](#day-56) **02/03/19**| The Web Developer Bootcamp - Added Functionalities|
 |[Day 57](#day-57) **03/03/19**| The Web Developer Bootcamp - Added Functionalities|[Day 58](#day-58) **04/03/19**| Code With Node: Journey Started|
+|[Day 59](#day-59) **05/03/19**| Code With Node: Routes Configured|
 
 <!-- ---
 <a name="day-"></a>
@@ -78,6 +79,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-59"></a>
+
+## Day 59: March-5th-2019
+
+#### Today's Focus: Code With Node: Routes Configured
+#### Completed:
+- Worked on Training Project and learnt some Node basics on Tutorials Point.
+- All the routes that are needed for the website are configured.
+
+#### Link to Work: [Code With Node Notes](https://github.com/NavinNavi19/Code-With-Node-Ian)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-58"></a>
