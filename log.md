@@ -64,6 +64,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 55](#day-55) **01/03/19**| The Web Developer Bootcamp - Heroku Deployment|[Day 56](#day-56) **02/03/19**| The Web Developer Bootcamp - Added Functionalities|
 |[Day 57](#day-57) **03/03/19**| The Web Developer Bootcamp - Added Functionalities|[Day 58](#day-58) **04/03/19**| Code With Node: Journey Started|
 |[Day 59](#day-59) **05/03/19**| Code With Node: Routes Configured|[Day 60](#day-60) **06/03/19**| Node Basics |
+|[Day 61](#day-61) **07/03/19**| Node Async/await |
 
 <!-- ---
 <a name="day-"></a>
@@ -79,6 +80,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-61"></a>
+
+## Day 61: March-7th-2019
+
+#### Today's Focus: Node Async/await
+#### Completed:
+- Learned about Async/Await and Promises. 
+- I had to say it's a broad topic, took me so long to understand with multiple posts.
+
+#### Link to Work: [Code With Node Notes](https://github.com/NavinNavi19/Code-With-Node-Ian)
+
+[Table of Contents](#toc)
+
 
 ---
 <a name="day-60"></a>
