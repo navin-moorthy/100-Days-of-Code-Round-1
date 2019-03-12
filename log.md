@@ -92,7 +92,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Finished the Posts Page Section 6 in Code w/ Node course.
 
 #### Link to Work: [Code With Node Notes](https://github.com/NavinNavi19/Code-With-Node-Ian)
-#### Link to Work: [Code With Node Notes](https://github.com/NavinNavi19/Node-Basics)
+#### Link to Work: [Node-Basics](https://github.com/NavinNavi19/Node-Basics)
 
 [Table of Contents](#toc)
 
