@@ -65,7 +65,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 57](#day-57) **03/03/19**| The Web Developer Bootcamp - Added Functionalities|[Day 58](#day-58) **04/03/19**| Code With Node: Journey Started|
 |[Day 59](#day-59) **05/03/19**| Code With Node: Routes Configured|[Day 60](#day-60) **06/03/19**| Node Basics |
 |[Day 61](#day-61) **07/03/19**| Node Async/await |[Day 62](#day-62) **11/03/19**| Node Global Objects |
-
+|[Day 63](#day-63) **12/03/19**| Node Web Module |
 <!-- ---
 <a name="day-"></a>
 
@@ -80,6 +80,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-63"></a>
+
+## Day 63: March-12th-2019
+
+#### Today's Focus: Node Web Module
+#### Completed:
+- Learned about http, url module in Node 
+- Finished the Posts Page Section 6 in Code w/ Node course.
+
+#### Link to Work: [Code With Node Notes](https://github.com/NavinNavi19/Code-With-Node-Ian)
+#### Link to Work: [Code With Node Notes](https://github.com/NavinNavi19/Node-Basics)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-62"></a>
