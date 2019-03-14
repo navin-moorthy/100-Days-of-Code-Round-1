@@ -90,7 +90,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus: Code With Node: Cloudinary Image Upload
 #### Completed:
-- Learned in how to upload photos and store images using Cloudinary and 
+- Learned in how to upload photos and store images using Cloudinary and multer
+
+#### Link to Work: [Code With Node Notes](https://github.com/NavinNavi19/Code-With-Node-Ian)
+
+[Table of Contents](#toc)
+
+---
+<a name="day-64"></a>
+
+## Day 64: March-13th-2019
+
+#### Today's Focus: Node Express
+#### Completed:
+- Learned about express, REST api and childProcess in Node 
 
 #### Link to Work: [Node-Basics](https://github.com/NavinNavi19/Node-Basics)
 
@@ -1127,11 +1140,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY4NzkwOCwtMTk0Mjk0ODQxMSwtMT
-I4ODE3NzMzOCwxNDQxOTYwOTI2LC0yMDYzNDU3NzYsLTEyNjcx
-ODg3OTMsLTI5MDA4MjI4NSwxMzIyNjU1ODk5LC0yMDY3ODAzNz
-cwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYyNDcsOTcw
-OTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLTE5ODA3ND
-A0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIxODk3MzEs
-LTQ2NDAzMzYwOV19
+eyJoaXN0b3J5IjpbLTIxMDg0OTU4NzAsLTE5NDI5NDg0MTEsLT
+EyODgxNzczMzgsMTQ0MTk2MDkyNiwtMjA2MzQ1Nzc2LC0xMjY3
+MTg4NzkzLC0yOTAwODIyODUsMTMyMjY1NTg5OSwtMjA2NzgwMz
+c3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LDk3
+MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNz
+QwNDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMx
+LC00NjQwMzM2MDldfQ==
 -->
