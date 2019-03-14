@@ -66,6 +66,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 59](#day-59) **05/03/19**| Code With Node: Routes Configured|[Day 60](#day-60) **06/03/19**| Node Basics |
 |[Day 61](#day-61) **07/03/19**| Node Async/await |[Day 62](#day-62) **11/03/19**| Node Global Objects |
 |[Day 63](#day-63) **12/03/19**| Node Web Module |[Day 64](#day-64) **13/03/19**| Node Express |
+[Day 65](#day-65) **14/03/19**| Code With Node: Cloudinary Image Upload |
+
 <!-- ---
 <a name="day-"></a>
 
@@ -86,9 +88,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 64: March-13th-2019
 
-#### Today's Focus: Node Express
+#### Today's Focus: Code With Node: Cloudinary Image Upload
 #### Completed:
-- Learned about express, REST api and childProcess in Node 
+- Learned in how to upload photos and store images using Cloudinary and 
 
 #### Link to Work: [Node-Basics](https://github.com/NavinNavi19/Node-Basics)
 
@@ -1125,11 +1127,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI5NDg0MTEsLTEyODgxNzczMzgsMT
-Q0MTk2MDkyNiwtMjA2MzQ1Nzc2LC0xMjY3MTg4NzkzLC0yOTAw
-ODIyODUsMTMyMjY1NTg5OSwtMjA2NzgwMzc3MCwxNjEyMTU3ND
-ExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LDk3MDk0MzI0MSwxOTYy
-ODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQwNDc1LDE0MTE1NT
-IzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00NjQwMzM2MDks
-MTQ1NTI3MjMyOV19
+eyJoaXN0b3J5IjpbLTIwMDY4NzkwOCwtMTk0Mjk0ODQxMSwtMT
+I4ODE3NzMzOCwxNDQxOTYwOTI2LC0yMDYzNDU3NzYsLTEyNjcx
+ODg3OTMsLTI5MDA4MjI4NSwxMzIyNjU1ODk5LC0yMDY3ODAzNz
+cwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1MjYyNDcsOTcw
+OTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczODIsLTE5ODA3ND
+A0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2ODIxODk3MzEs
+LTQ2NDAzMzYwOV19
 -->
