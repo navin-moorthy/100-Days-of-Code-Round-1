@@ -67,6 +67,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 61](#day-61) **07/03/19**| Node Async/await |[Day 62](#day-62) **11/03/19**| Node Global Objects |
 |[Day 63](#day-63) **12/03/19**| Node Web Module |[Day 64](#day-64) **13/03/19**| Node Express |
 |[Day 65](#day-65) **14/03/19**| Code With Node: Cloudinary Image Upload |[Day 66](#day-66) **15/03/19**| Node with mysql |
+|[Day 67](#day-67) **16/03/19**| Personal Project |
+
 
 <!-- ---
 <a name="day-"></a>
@@ -1153,11 +1155,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MjQ4NjMsLTE5NDI5NDg0MTEsLTEyOD
-gxNzczMzgsMTQ0MTk2MDkyNiwtMjA2MzQ1Nzc2LC0xMjY3MTg4
-NzkzLC0yOTAwODIyODUsMTMyMjY1NTg5OSwtMjA2NzgwMzc3MC
-wxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMyNTI2MjQ3LDk3MDk0
-MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3MzgyLC0xOTgwNzQwND
-c1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAsNjgyMTg5NzMxLC00
-NjQwMzM2MDldfQ==
+eyJoaXN0b3J5IjpbLTExMjExMDkwMjIsNzE4MjQ4NjMsLTE5ND
+I5NDg0MTEsLTEyODgxNzczMzgsMTQ0MTk2MDkyNiwtMjA2MzQ1
+Nzc2LC0xMjY3MTg4NzkzLC0yOTAwODIyODUsMTMyMjY1NTg5OS
+wtMjA2NzgwMzc3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMy
+NTI2MjQ3LDk3MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3Mz
+gyLC0xOTgwNzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAs
+NjgyMTg5NzMxXX0=
 -->
