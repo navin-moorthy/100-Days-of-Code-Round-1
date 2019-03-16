@@ -86,13 +86,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
-<a name="day-66"></a>
+<a name="day-67"></a>
 
-## Day 66: March-15th-2019
+## Day 67: March-16th-2019
 
-#### Today's Focus: Node with mysql
+#### Today's Focus: Personal Project
 #### Completed:
-- Worked on a personal project to 
+- Worked on a personal project.
 
 [Table of Contents](#toc)
 
@@ -1166,7 +1166,7 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDg4MjUxMiw3MTgyNDg2MywtMTk0Mj
+eyJoaXN0b3J5IjpbMjA5NDIwNTA1NSw3MTgyNDg2MywtMTk0Mj
 k0ODQxMSwtMTI4ODE3NzMzOCwxNDQxOTYwOTI2LC0yMDYzNDU3
 NzYsLTEyNjcxODg3OTMsLTI5MDA4MjI4NSwxMzIyNjU1ODk5LC
 0yMDY3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1
