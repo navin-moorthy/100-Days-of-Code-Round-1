@@ -92,6 +92,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus: Node with mysql
 #### Completed:
+- Worked on a personal project to 
+
+[Table of Contents](#toc)
+
+---
+<a name="day-66"></a>
+
+## Day 66: March-15th-2019
+
+#### Today's Focus: Node with mysql
+#### Completed:
 - Learned to integrate mysql db with node and learned some SQL queries
 
 #### Link to Work: [Node-Basics](https://github.com/NavinNavi19/Node-Basics)
@@ -1155,11 +1166,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 
 [Table of Contents](#toc)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjExMDkwMjIsNzE4MjQ4NjMsLTE5ND
-I5NDg0MTEsLTEyODgxNzczMzgsMTQ0MTk2MDkyNiwtMjA2MzQ1
-Nzc2LC0xMjY3MTg4NzkzLC0yOTAwODIyODUsMTMyMjY1NTg5OS
-wtMjA2NzgwMzc3MCwxNjEyMTU3NDExLDEyNDAzOTc2NzYsLTMy
-NTI2MjQ3LDk3MDk0MzI0MSwxOTYyODU3NDgyLC0xOTIwODU3Mz
-gyLC0xOTgwNzQwNDc1LDE0MTE1NTIzODUsLTE0OTY0ODExOTAs
-NjgyMTg5NzMxXX0=
+eyJoaXN0b3J5IjpbMTE4MDg4MjUxMiw3MTgyNDg2MywtMTk0Mj
+k0ODQxMSwtMTI4ODE3NzMzOCwxNDQxOTYwOTI2LC0yMDYzNDU3
+NzYsLTEyNjcxODg3OTMsLTI5MDA4MjI4NSwxMzIyNjU1ODk5LC
+0yMDY3ODAzNzcwLDE2MTIxNTc0MTEsMTI0MDM5NzY3NiwtMzI1
+MjYyNDcsOTcwOTQzMjQxLDE5NjI4NTc0ODIsLTE5MjA4NTczOD
+IsLTE5ODA3NDA0NzUsMTQxMTU1MjM4NSwtMTQ5NjQ4MTE5MCw2
+ODIxODk3MzFdfQ==
 -->
