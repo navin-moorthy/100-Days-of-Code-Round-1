@@ -68,7 +68,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 63](#day-63) **12/03/19**| Node Web Module |[Day 64](#day-64) **13/03/19**| Node Express |
 |[Day 65](#day-65) **14/03/19**| Code With Node: Cloudinary Image Upload |[Day 66](#day-66) **15/03/19**| Node with mysql |
 |[Day 67](#day-67) **16/03/19**| Personal Project |[Day 68](#day-68) **17/03/19**| Personal Project |
-
+|[Day 69](#day-69) **18/03/19**| Personal Project |
 
 <!-- ---
 <a name="day-"></a>
@@ -84,6 +84,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-69"></a>
+
+## Day 69: March-18th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Learned about http-errors and error handling.
+
+[Table of Contents](#toc)
+
 
 ---
 <a name="day-68"></a>
