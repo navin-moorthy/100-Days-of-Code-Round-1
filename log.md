@@ -67,7 +67,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 61](#day-61) **07/03/19**| Node Async/await |[Day 62](#day-62) **11/03/19**| Node Global Objects |
 |[Day 63](#day-63) **12/03/19**| Node Web Module |[Day 64](#day-64) **13/03/19**| Node Express |
 |[Day 65](#day-65) **14/03/19**| Code With Node: Cloudinary Image Upload |[Day 66](#day-66) **15/03/19**| Node with mysql |
-|[Day 67](#day-67) **16/03/19**| Personal Project |
+|[Day 67](#day-67) **16/03/19**| Personal Project |[Day 68](#day-68) **17/03/19**| Personal Project |
 
 
 <!-- ---
@@ -84,6 +84,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-68"></a>
+
+## Day 68: March-17th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Learned about debug and morgan modules. Understood all the Express Generated code.
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-67"></a>
