@@ -69,6 +69,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 65](#day-65) **14/03/19**| Code With Node: Cloudinary Image Upload |[Day 66](#day-66) **15/03/19**| Node with mysql |
 |[Day 67](#day-67) **16/03/19**| Personal Project |[Day 68](#day-68) **17/03/19**| Personal Project |
 |[Day 69](#day-69) **18/03/19**| Personal Project |[Day 70](#day-70) **19/03/19**| Server-Client Socket based Chat Application |
+|[Day 71](#day-71) **20/03/19**| Personal Project |[Day 71](#day-71) **21/03/19**| Personal Project |
 
 <!-- ---
 <a name="day-"></a>
@@ -84,6 +85,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-72"></a>
+
+## Day 72: March-21th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Worked on a personal project which cannot be disclosed - TG
+
+[Table of Contents](#toc)
+
+---
+<a name="day-71"></a>
+
+## Day 71: March-20th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Worked on a personal project which cannot be disclosed - TG
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-70"></a>
