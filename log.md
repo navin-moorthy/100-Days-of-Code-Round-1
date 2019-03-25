@@ -70,7 +70,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 67](#day-67) **16/03/19**| Personal Project |[Day 68](#day-68) **17/03/19**| Personal Project |
 |[Day 69](#day-69) **18/03/19**| Personal Project |[Day 70](#day-70) **19/03/19**| Server-Client Socket based Chat Application |
 |[Day 71](#day-71) **20/03/19**| Personal Project |[Day 72](#day-72) **21/03/19**| Personal Project |
-|[Day 73](#day-73) **22/03/19**| Personal Project ||[Day 74](#day-74) **23/03/19**| Personal Project |
+|[Day 73](#day-73) **22/03/19**| Personal Project |[Day 74](#day-74) **23/03/19**| Personal Project |
 |[Day 75](#day-75) **24/03/19**| Personal Project |
 
 <!-- ---
