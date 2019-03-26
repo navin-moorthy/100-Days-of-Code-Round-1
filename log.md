@@ -71,7 +71,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 69](#day-69) **18/03/19**| Personal Project |[Day 70](#day-70) **19/03/19**| Server-Client Socket based Chat Application |
 |[Day 71](#day-71) **20/03/19**| Personal Project |[Day 72](#day-72) **21/03/19**| Personal Project |
 |[Day 73](#day-73) **22/03/19**| Personal Project |[Day 74](#day-74) **23/03/19**| Personal Project |
-|[Day 75](#day-75) **24/03/19**| Personal Project |
+|[Day 75](#day-75) **24/03/19**| Personal Project ||[Day 76](#day-76) **24/03/19**| Personal Project |
 
 <!-- ---
 <a name="day-"></a>
@@ -87,6 +87,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-76"></a>
+
+## Day 76: March-25th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Quality of life improvements + added script for ssh remote connect and git push with one command.
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-75"></a>
