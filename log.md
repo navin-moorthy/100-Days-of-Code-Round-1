@@ -72,7 +72,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 |[Day 71](#day-71) **20/03/19**| Personal Project |[Day 72](#day-72) **21/03/19**| Personal Project |
 |[Day 73](#day-73) **22/03/19**| Personal Project |[Day 74](#day-74) **23/03/19**| Personal Project |
 |[Day 75](#day-75) **24/03/19**| Personal Project |[Day 76](#day-76) **25/03/19**| Personal Project |
-|[Day 77](#day-77) **26/03/19**| Personal Project |
+|[Day 77](#day-77) **26/03/19**| Personal Project |[Day 78](#day-78) **27/03/19**| Personal Project|
+|[Day 79](#day-79) **28/03/19**| Personal Project|
 
 <!-- ---
 <a name="day-"></a>
@@ -88,6 +89,28 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-79"></a>
+
+## Day 79: March-28th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Revisited all the works done for the past week and repeated it.
+
+[Table of Contents](#toc)
+
+---
+<a name="day-78"></a>
+
+## Day 78: March-27th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Prepared Post 3 for my website.
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-77"></a>
