@@ -11,9 +11,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** *I will code daily for the next 100 days.*
 
-|  Start Date   | End Date     |
-| ------------- | ------------ |
-|  04-Jan-2019  |  14-Apr-2019 |
+| Start Date  | End Date    |
+| ----------- | ----------- |
+| 04-Jan-2019 | 14-Apr-2019 |
 
 ## Goals
 
@@ -32,48 +32,48 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ### Table of Contents 
 
-| **Day** | **Focus** | **Day** | **Focus** |
-|:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **04/01/19**| Learn Markdown and bring up the Repo site |[Day 2](#day-2) **05/01/19**| Automation In my Web Server Part 1 |
-|[Day 3](#day-3) **06/01/19**| Automation In my Web Server Part 2 | [Day 4](#day-4) **07/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
-|[Day 5](#day-5) **08/01/19**| Virtual Lab Setup |[Day 6](#day-6) **09/01/19**| Pico CTF 2017 | 
-|[Day 7](#day-7) **10/01/19**| Pico CTF 2017|[Day 8](#day-8) **11/01/19**| Pico CTF 2017|
-|[Day 9](#day-9) **12/01/19**| Busy Day|[Day 10](#day-10) **13/01/19**| Pico CTF 2017|
-| [Day 11](#day-11) **14/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 12](#day-12) **15/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |
-| [Day 13](#day-13) **16/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 14](#day-14) **17/01/19**| Pico CTF 2017|
-|[Day 15](#day-15) **18/01/19**| Pico CTF 2017|[Day 16](#day-16) **19/01/19**| Pico CTF 2017|
-| [Day 17](#day-17) **20/01/19**| Learn-Website-Hacking-Penetration-Testing-From-Scratch |[Day 18](#day-18) **21/01/19**| Quality of life Improvements |
-| [Day 19](#day-19) **22/01/19**| The Web Developer Bootcamp - Till Bootstrap |[Day 20](#day-20) **23/01/19**| The Web Developer Bootcamp - Till Javascript last project |
-|[Day 21](#day-21) **24/01/19**| The Web Developer Bootcamp - jQuery |[Day 22](#day-22) **25/01/19**| The Web Developer Bootcamp - jQuery |
-|[Day 23](#day-23) **26/01/19**| The Web Developer Bootcamp - Advanced jQuery |[Day 24](#day-24) **27/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
-|[Day 25](#day-25) **28/01/19**| VANUSS - 2nd Post Preparation |[Day 26](#day-26) **29/01/19**| VANUSS - Improvements to the site |
-|[Day 27](#day-27) **30/01/19**| VANUSS - Git Auto deployment using webhook |[Day 28](#day-28) **31/01/19**| The Web Developer Bootcamp - jQuery - ToDo List Project |
-|[Day 29](#day-29) **01/02/19**| The Web Developer Bootcamp - Patatap Clone Project |[Day 30](#day-30) **02/02/19**| The Web Developer Bootcamp - Intro to Backend |
-|[Day 31](#day-31) **03/02/19**| The Web Developer Bootcamp - Intro to Node and NPM |[Day 32](#day-32) **04/02/19**| Pico CTF 2017|
-|[Day 33](#day-33) **05/02/19**| Pico CTF 2017|[Day 34](#day-34) **06/02/19**| Pico CTF 2017|
-|[Day 35](#day-35) **07/02/19**| Pico CTF 2017| [Day 36](#day-36) **08/02/19**| Pico CTF 2017|
-|[Day 37](#day-37) **09/02/19**| Pico CTF 2017|[Day 38](#day-38) **12/02/19**| Pico CTF 2017|
-|[Day 39](#day-39) **13/02/19**| Pico CTF 2017|[Day 40](#day-40) **14/02/19**| Pico CTF 2017|
-|[Day 41](#day-41) **15/02/19**| Pico CTF 2017|[Day 42](#day-42) **16/02/19**| Pico CTF 2017|
-|[Day 43](#day-43) **17/02/19**| Pico CTF 2017 Recap|[Day 44](#day-44) **18/02/19**| The Web Developer Bootcamp - Intro to Express|
-|[Day 45](#day-45) **19/02/19**| The Web Developer Bootcamp - Intermediate Express|[Day 46](#day-46) **20/02/19**| The Web Developer Bootcamp - Intro to API|
-|[Day 47](#day-47) **21/02/19**| The Web Developer Bootcamp - YelpCamp Basics|[Day 48](#day-48) **22/02/19**| The Web Developer Bootcamp - Mongo DB|
-|[Day 49](#day-49) **23/02/19**| The Web Developer Bootcamp - YelpCamp Data Persistence|[Day 50](#day-50) **24/02/19**| The Web Developer Bootcamp - RESTful Routes|
-|[Day 51](#day-51) **25/02/19**| The Web Developer Bootcamp - Data Associations|[Day 52](#day-52) **26/02/19**| The Web Developer Bootcamp - Comments and Authentications|
-|[Day 53](#day-53) **27/02/19**| The Web Developer Bootcamp - Update and Destroy|[Day 54](#day-54) **28/02/19**| The Web Developer Bootcamp - UI Improvements|
-|[Day 55](#day-55) **01/03/19**| The Web Developer Bootcamp - Heroku Deployment|[Day 56](#day-56) **02/03/19**| The Web Developer Bootcamp - Added Functionalities|
-|[Day 57](#day-57) **03/03/19**| The Web Developer Bootcamp - Added Functionalities|[Day 58](#day-58) **04/03/19**| Code With Node: Journey Started|
-|[Day 59](#day-59) **05/03/19**| Code With Node: Routes Configured|[Day 60](#day-60) **06/03/19**| Node Basics |
-|[Day 61](#day-61) **07/03/19**| Node Async/await |[Day 62](#day-62) **11/03/19**| Node Global Objects |
-|[Day 63](#day-63) **12/03/19**| Node Web Module |[Day 64](#day-64) **13/03/19**| Node Express |
-|[Day 65](#day-65) **14/03/19**| Code With Node: Cloudinary Image Upload |[Day 66](#day-66) **15/03/19**| Node with mysql |
-|[Day 67](#day-67) **16/03/19**| Personal Project |[Day 68](#day-68) **17/03/19**| Personal Project |
-|[Day 69](#day-69) **18/03/19**| Personal Project |[Day 70](#day-70) **19/03/19**| Server-Client Socket based Chat Application |
-|[Day 71](#day-71) **20/03/19**| Personal Project |[Day 72](#day-72) **21/03/19**| Personal Project |
-|[Day 73](#day-73) **22/03/19**| Personal Project |[Day 74](#day-74) **23/03/19**| Personal Project |
-|[Day 75](#day-75) **24/03/19**| Personal Project |[Day 76](#day-76) **25/03/19**| Personal Project |
-|[Day 77](#day-77) **26/03/19**| Personal Project |[Day 78](#day-78) **27/03/19**| Personal Project|
-|[Day 79](#day-79) **28/03/19**| Personal Project|
+|            **Day**             |                       **Focus**                        |            **Day**             |                         **Focus**                         |
+| :----------------------------: | :----------------------------------------------------: | :----------------------------: | :-------------------------------------------------------: |
+|  [Day 1](#day-1) **04/01/19**  |       Learn Markdown and bring up the Repo site        |  [Day 2](#day-2) **05/01/19**  |            Automation In my Web Server Part 1             |
+|  [Day 3](#day-3) **06/01/19**  |           Automation In my Web Server Part 2           |  [Day 4](#day-4) **07/01/19**  |  Learn-Website-Hacking-Penetration-Testing-From-Scratch   |
+|  [Day 5](#day-5) **08/01/19**  |                   Virtual Lab Setup                    |  [Day 6](#day-6) **09/01/19**  |                       Pico CTF 2017                       |
+|  [Day 7](#day-7) **10/01/19**  |                     Pico CTF 2017                      |  [Day 8](#day-8) **11/01/19**  |                       Pico CTF 2017                       |
+|  [Day 9](#day-9) **12/01/19**  |                        Busy Day                        | [Day 10](#day-10) **13/01/19** |                       Pico CTF 2017                       |
+| [Day 11](#day-11) **14/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch | [Day 12](#day-12) **15/01/19** |  Learn-Website-Hacking-Penetration-Testing-From-Scratch   |
+| [Day 13](#day-13) **16/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch | [Day 14](#day-14) **17/01/19** |                       Pico CTF 2017                       |
+| [Day 15](#day-15) **18/01/19** |                     Pico CTF 2017                      | [Day 16](#day-16) **19/01/19** |                       Pico CTF 2017                       |
+| [Day 17](#day-17) **20/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch | [Day 18](#day-18) **21/01/19** |               Quality of life Improvements                |
+| [Day 19](#day-19) **22/01/19** |      The Web Developer Bootcamp - Till Bootstrap       | [Day 20](#day-20) **23/01/19** | The Web Developer Bootcamp - Till Javascript last project |
+| [Day 21](#day-21) **24/01/19** |          The Web Developer Bootcamp - jQuery           | [Day 22](#day-22) **25/01/19** |            The Web Developer Bootcamp - jQuery            |
+| [Day 23](#day-23) **26/01/19** |      The Web Developer Bootcamp - Advanced jQuery      | [Day 24](#day-24) **27/01/19** |  The Web Developer Bootcamp - jQuery - ToDo List Project  |
+| [Day 25](#day-25) **28/01/19** |             VANUSS - 2nd Post Preparation              | [Day 26](#day-26) **29/01/19** |             VANUSS - Improvements to the site             |
+| [Day 27](#day-27) **30/01/19** |       VANUSS - Git Auto deployment using webhook       | [Day 28](#day-28) **31/01/19** |  The Web Developer Bootcamp - jQuery - ToDo List Project  |
+| [Day 29](#day-29) **01/02/19** |   The Web Developer Bootcamp - Patatap Clone Project   | [Day 30](#day-30) **02/02/19** |       The Web Developer Bootcamp - Intro to Backend       |
+| [Day 31](#day-31) **03/02/19** |   The Web Developer Bootcamp - Intro to Node and NPM   | [Day 32](#day-32) **04/02/19** |                       Pico CTF 2017                       |
+| [Day 33](#day-33) **05/02/19** |                     Pico CTF 2017                      | [Day 34](#day-34) **06/02/19** |                       Pico CTF 2017                       |
+| [Day 35](#day-35) **07/02/19** |                     Pico CTF 2017                      | [Day 36](#day-36) **08/02/19** |                       Pico CTF 2017                       |
+| [Day 37](#day-37) **09/02/19** |                     Pico CTF 2017                      | [Day 38](#day-38) **12/02/19** |                       Pico CTF 2017                       |
+| [Day 39](#day-39) **13/02/19** |                     Pico CTF 2017                      | [Day 40](#day-40) **14/02/19** |                       Pico CTF 2017                       |
+| [Day 41](#day-41) **15/02/19** |                     Pico CTF 2017                      | [Day 42](#day-42) **16/02/19** |                       Pico CTF 2017                       |
+| [Day 43](#day-43) **17/02/19** |                  Pico CTF 2017 Recap                   | [Day 44](#day-44) **18/02/19** |       The Web Developer Bootcamp - Intro to Express       |
+| [Day 45](#day-45) **19/02/19** |   The Web Developer Bootcamp - Intermediate Express    | [Day 46](#day-46) **20/02/19** |         The Web Developer Bootcamp - Intro to API         |
+| [Day 47](#day-47) **21/02/19** |      The Web Developer Bootcamp - YelpCamp Basics      | [Day 48](#day-48) **22/02/19** |           The Web Developer Bootcamp - Mongo DB           |
+| [Day 49](#day-49) **23/02/19** | The Web Developer Bootcamp - YelpCamp Data Persistence | [Day 50](#day-50) **24/02/19** |        The Web Developer Bootcamp - RESTful Routes        |
+| [Day 51](#day-51) **25/02/19** |     The Web Developer Bootcamp - Data Associations     | [Day 52](#day-52) **26/02/19** | The Web Developer Bootcamp - Comments and Authentications |
+| [Day 53](#day-53) **27/02/19** |    The Web Developer Bootcamp - Update and Destroy     | [Day 54](#day-54) **28/02/19** |       The Web Developer Bootcamp - UI Improvements        |
+| [Day 55](#day-55) **01/03/19** |     The Web Developer Bootcamp - Heroku Deployment     | [Day 56](#day-56) **02/03/19** |    The Web Developer Bootcamp - Added Functionalities     |
+| [Day 57](#day-57) **03/03/19** |   The Web Developer Bootcamp - Added Functionalities   | [Day 58](#day-58) **04/03/19** |              Code With Node: Journey Started              |
+| [Day 59](#day-59) **05/03/19** |           Code With Node: Routes Configured            | [Day 60](#day-60) **06/03/19** |                        Node Basics                        |
+| [Day 61](#day-61) **07/03/19** |                    Node Async/await                    | [Day 62](#day-62) **11/03/19** |                    Node Global Objects                    |
+| [Day 63](#day-63) **12/03/19** |                    Node Web Module                     | [Day 64](#day-64) **13/03/19** |                       Node Express                        |
+| [Day 65](#day-65) **14/03/19** |        Code With Node: Cloudinary Image Upload         | [Day 66](#day-66) **15/03/19** |                      Node with mysql                      |
+| [Day 67](#day-67) **16/03/19** |                    Personal Project                    | [Day 68](#day-68) **17/03/19** |                     Personal Project                      |
+| [Day 69](#day-69) **18/03/19** |                    Personal Project                    | [Day 70](#day-70) **19/03/19** |        Server-Client Socket based Chat Application        |
+| [Day 71](#day-71) **20/03/19** |                    Personal Project                    | [Day 72](#day-72) **21/03/19** |                     Personal Project                      |
+| [Day 73](#day-73) **22/03/19** |                    Personal Project                    | [Day 74](#day-74) **23/03/19** |                     Personal Project                      |
+| [Day 75](#day-75) **24/03/19** |                    Personal Project                    | [Day 76](#day-76) **25/03/19** |                     Personal Project                      |
+| [Day 77](#day-77) **26/03/19** |                    Personal Project                    | [Day 78](#day-78) **27/03/19** |                     Personal Project                      |
+| [Day 79](#day-79) **28/03/19** |                    Personal Project                    | [Day 80](#day-80) **29/03/19** |                     Personal Project                      |
 
 <!-- ---
 <a name="day-"></a>
@@ -89,6 +89,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-80"></a>
+
+## Day 80: March-29th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Installed Coder in my dev environment and explored the power of vscode from the browser.
+- Added coder server to auto start after a restart and a cert for encrypted communication.
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-79"></a>
