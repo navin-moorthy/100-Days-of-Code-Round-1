@@ -74,6 +74,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 75](#day-75) **24/03/19** |                    Personal Project                    | [Day 76](#day-76) **25/03/19** |                     Personal Project                      |
 | [Day 77](#day-77) **26/03/19** |                    Personal Project                    | [Day 78](#day-78) **27/03/19** |                     Personal Project                      |
 | [Day 79](#day-79) **28/03/19** |                    Personal Project                    | [Day 80](#day-80) **29/03/19** |                     Personal Project                      |
+| [Day 81](#day-81) **30/03/19** |                    Personal Project                    | 
 
 <!-- ---
 <a name="day-"></a>
@@ -89,6 +90,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-81"></a>
+
+## Day 81: March-30th-2019
+
+#### Today's Focus: Personal Project
+#### Completed:
+- Published my third post in my new site [vanuss](https://vanuss.org)
+- Learned about meta tags for social sharing and added to my site.
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-80"></a>
