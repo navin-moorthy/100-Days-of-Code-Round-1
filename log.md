@@ -74,7 +74,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 75](#day-75) **24/03/19** |                    Personal Project                    | [Day 76](#day-76) **25/03/19** |                     Personal Project                      |
 | [Day 77](#day-77) **26/03/19** |                    Personal Project                    | [Day 78](#day-78) **27/03/19** |                     Personal Project                      |
 | [Day 79](#day-79) **28/03/19** |                    Personal Project                    | [Day 80](#day-80) **29/03/19** |                     Personal Project                      |
-| [Day 81](#day-81) **30/03/19** |                    Personal Project                    | 
+| [Day 81](#day-81) **30/03/19** |                    Personal Project                    | [Day 82](#day-82) **31/03/19** |                 DayOffSomeJavascriptPosts                 |
+| [Day 83](#day-83) **01/04/19** |                 AngularMEANUdmeyCourse                 |
 
 <!-- ---
 <a name="day-"></a>
@@ -92,7 +93,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
-<a name="day-81"></a>
+<a name="day-83"></a>
+
+## Day 83: April-1st-2019
+
+#### Today's Focus: AngularMEANUdmeyCourse
+#### Completed:
+- Continued my course on Angular MEAN stack in Udemy.
+
+#### Link to Work: [Node-Basics](https://github.com/NavinNavi19/Angular-NodeJS---The-MEAN-Stack-Guide)
+
+[Table of Contents](#toc)
+
+---
+<a name="day-82"></a>
+
+## Day 82: March-31th-2019
+
+#### Today's Focus: DayOffSomeJavascriptPosts
+#### Completed:
+- https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
+- https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
+
+[Table of Contents](#toc)
+
+---
+<a name="day-82"></a>
 
 ## Day 81: March-30th-2019
 
