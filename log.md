@@ -115,7 +115,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Completed:
 - Continued my course on Angular MEAN stack in Udemy.
 
-#### Link to Work: [Node-Basics](https://github.com/NavinNavi19/Angular-NodeJS---The-MEAN-Stack-Guide)
+#### Link to Work: [Angular-NodeJS---The-MEAN-Stack-Guide](https://github.com/NavinNavi19/Angular-NodeJS---The-MEAN-Stack-Guide)
 
 [Table of Contents](#toc)
 
