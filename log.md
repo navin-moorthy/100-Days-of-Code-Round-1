@@ -76,6 +76,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 79](#day-79) **28/03/19** |                    Personal Project                    | [Day 80](#day-80) **29/03/19** |                     Personal Project                      |
 | [Day 81](#day-81) **30/03/19** |                    Personal Project                    | [Day 82](#day-82) **31/03/19** |                 DayOffSomeJavascriptPosts                 |
 | [Day 83](#day-83) **01/04/19** |                 AngularMEANUdmeyCourse                 | [Day 84](#day-84) **02/04/19** |                  AngularMEANUdmeyCourse                   |
+| [Day 84](#day-84) **03/04/19** |                 AngularMEANUdmeyCourse                 |
 
 <!-- ---
 <a name="day-"></a>
@@ -93,6 +94,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 [Table of Contents](#toc) -->
 
 ---
+<a name="day-85"></a>
+
+## Day 85: April-3rd-2019
+
+#### Today's Focus: AngularMEANUdmeyCourse
+#### Completed:
+- Worked on Pagination and Going through User Authentication.
+
+#### Link to Work: [Angular-NodeJS---The-MEAN-Stack-Guide](https://github.com/NavinNavi19/Angular-NodeJS---The-MEAN-Stack-Guide)
+
+[Table of Contents](#toc)
+
+---
 <a name="day-84"></a>
 
 ## Day 84: April-2nd-2019
@@ -102,7 +116,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Continued my course on Angular MEAN stack in Udemy.
 - Worked on Image Upload.
 
-#### Link to Work: [Node-Basics](https://github.com/NavinNavi19/Angular-NodeJS---The-MEAN-Stack-Guide)
+#### Link to Work: [Angular-NodeJS---The-MEAN-Stack-Guide](https://github.com/NavinNavi19/Angular-NodeJS---The-MEAN-Stack-Guide)
 
 [Table of Contents](#toc)
 
