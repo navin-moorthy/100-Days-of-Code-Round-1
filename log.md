@@ -101,7 +101,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Today's Focus: AngularMEANUdmeyCourse
 #### Completed:
-- Completed Authorization, Authentication and Error Hadling.
+- Worked on Deploying the MEAN App in AWS.
 
 #### Link to Work: [Angular-NodeJS---The-MEAN-Stack-Guide](https://github.com/NavinNavi19/Angular-NodeJS---The-MEAN-Stack-Guide)
 
