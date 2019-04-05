@@ -77,6 +77,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 81](#day-81) **30/03/19** |                    Personal Project                    | [Day 82](#day-82) **31/03/19** |                 DayOffSomeJavascriptPosts                 |
 | [Day 83](#day-83) **01/04/19** |                 AngularMEANUdmeyCourse                 | [Day 84](#day-84) **02/04/19** |                  AngularMEANUdmeyCourse                   |
 | [Day 85](#day-85) **03/04/19** |                 AngularMEANUdmeyCourse                 | [Day 86](#day-86) **04/04/19** |                  AngularMEANUdmeyCourse                   |
+| [Day 87](#day-87) **05/04/19** |                 AngularMEANUdmeyCourse                 |
 
 <!-- ---
 <a name="day-"></a>
@@ -92,6 +93,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-87"></a>
+
+## Day 87: April-5th-2019
+
+#### Today's Focus: AngularMEANUdmeyCourse
+#### Completed:
+- Completed Authorization, Authentication and Error Hadling.
+
+#### Link to Work: [Angular-NodeJS---The-MEAN-Stack-Guide](https://github.com/NavinNavi19/Angular-NodeJS---The-MEAN-Stack-Guide)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-86"></a>
