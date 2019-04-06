@@ -99,7 +99,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Day 88: April-6th-2019
 
-#### Today's Focus: AngularMEANUdmeyCourse
+#### Today's Focus: AJAX JQUERY ToDo List
 #### Completed:
 - Created a 3 Page Todo List with index, new and edit page seperately.
 - Refracting the same to code to change Todo list as Single page with AJAX JQuery to do the http request in the background.
