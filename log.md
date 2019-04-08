@@ -103,6 +103,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Today's Focus: AJAX JQUERY ToDo List
 #### Completed:
 - Refracted a lot of code for better performance.
+- 
 
 #### Link to Work: [AJAX JQUERY ToDo List Notes](https://github.com/NavinNavi19/AJAX-JQuery-Tutorial)
 
