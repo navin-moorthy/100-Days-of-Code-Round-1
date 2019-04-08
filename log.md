@@ -78,6 +78,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 83](#day-83) **01/04/19** |                 AngularMEANUdmeyCourse                 | [Day 84](#day-84) **02/04/19** |                  AngularMEANUdmeyCourse                   |
 | [Day 85](#day-85) **03/04/19** |                 AngularMEANUdmeyCourse                 | [Day 86](#day-86) **04/04/19** |                  AngularMEANUdmeyCourse                   |
 | [Day 87](#day-87) **05/04/19** |                 AngularMEANUdmeyCourse                 | [Day 88](#day-88) **06/04/19** |                   AJAX JQUERY ToDo List                   |
+| [Day 89](#day-89) **07/04/19** |                 AJAX JQUERY ToDo List                  | [Day 90](#day-90) **08/04/19** |                   AJAX JQUERY ToDo List                   |
 
 <!-- ---
 <a name="day-"></a>
@@ -93,6 +94,32 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts: 
 
 [Table of Contents](#toc) -->
+
+---
+<a name="day-90"></a>
+
+## Day 90: April-8th-2019
+
+#### Today's Focus: AJAX JQUERY ToDo List
+#### Completed:
+- Refracted a lot of code for better performance.
+
+#### Link to Work: [AJAX JQUERY ToDo List Notes](https://github.com/NavinNavi19/AJAX-JQuery-Tutorial)
+
+[Table of Contents](#toc)
+
+---
+<a name="day-89"></a>
+
+## Day 89: April-7th-2019
+
+#### Today's Focus: AJAX JQUERY ToDo List
+#### Completed:
+- Done Changing the Edit Todo and Delete Todo Page into the single page.
+
+#### Link to Work: [AJAX JQUERY ToDo List Notes](https://github.com/NavinNavi19/AJAX-JQuery-Tutorial)
+
+[Table of Contents](#toc)
 
 ---
 <a name="day-88"></a>
