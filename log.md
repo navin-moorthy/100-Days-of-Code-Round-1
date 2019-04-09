@@ -107,7 +107,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:
 
--
+- Completed Basics Course Project and Learned about EventBinding
 
 #### Link to Work: [Angular7UdemyMaxCourse Notes](https://github.com/NavinNavi19/Angular-7-formerly-Angular-2---The-Complete-Guide)
 
