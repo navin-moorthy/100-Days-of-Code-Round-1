@@ -80,7 +80,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 85](#day-85) **03/04/19** |                 AngularMEANUdmeyCourse                 | [Day 86](#day-86) **04/04/19** |                  AngularMEANUdmeyCourse                   |
 | [Day 87](#day-87) **05/04/19** |                 AngularMEANUdmeyCourse                 | [Day 88](#day-88) **06/04/19** |                   AJAX JQUERY ToDo List                   |
 | [Day 89](#day-89) **07/04/19** |                 AJAX JQUERY ToDo List                  | [Day 90](#day-90) **08/04/19** |                   AJAX JQUERY ToDo List                   |
-| [Day 91](#day-91) **09/04/19** |                 Angular7UdemyMaxCourse                 |
+| [Day 91](#day-91) **09/04/19** |                 Angular7UdemyMaxCourse                 | [Day 92](#day-92) **10/04/19** |                  Angular7UdemyMaxCourse                   |
 
 <!-- ---
 <a name="day-"></a>
@@ -96,6 +96,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts:
 
 [Table of Contents](#toc) -->
+
+---
+
+<a name="day-92"></a>
+
+## Day 92: April-10th-2019
+
+#### Today's Focus: Angular7UdemyMaxCourse
+
+#### Completed:
+
+-
+
+#### Link to Work: [Angular7UdemyMaxCourse Notes](https://github.com/NavinNavi19/Angular-7-formerly-Angular-2---The-Complete-Guide)
+
+[Table of Contents](#toc)
 
 ---
 
