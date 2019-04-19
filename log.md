@@ -108,7 +108,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:
 
-- Learned about Pipe in Angular.
+- Learned about use of Pipes inside String Interpolation in Angular.
 
 #### Link to Work: [Angular7UdemyMaxCourse Notes](https://github.com/NavinNavi19/Angular-7-formerly-Angular-2---The-Complete-Guide)
 
