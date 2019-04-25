@@ -83,7 +83,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 91](#day-91) **09/04/19** |                 Angular7UdemyMaxCourse                 | [Day 92](#day-92) **10/04/19** |                  Angular7UdemyMaxCourse                   |
 | [Day 93](#day-93) **11/04/19** |                 Angular7UdemyMaxCourse                 | [Day 94](#day-94) **19/04/19** |                  Angular7UdemyMaxCourse                   |
 | [Day 95](#day-95) **22/04/19** |                 Angular7UdemyMaxCourse                 | [Day 96](#day-96) **23/04/19** |                  Angular7UdemyMaxCourse                   |
-| [Day 97](#day-97) **24/04/19** |                 Angular7UdemyMaxCourse                 |
+| [Day 97](#day-97) **24/04/19** |                 Angular7UdemyMaxCourse                 | [Day 98](#day-98) **25/04/19** |                  Angular7UdemyMaxCourse                   |
 
 <!-- ---
 <a name="day-"></a>
@@ -99,6 +99,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts:
 
 [Table of Contents](#toc) -->
+
+---
+
+<a name="day-98"></a>
+
+## Day 98: April-25th-2019
+
+#### Today's Focus: Angular7UdemyMaxCourse
+
+#### Completed:
+
+- Learned about Angular Animation and Angular Universal - Basics
+
+#### Link to Work: [Angular7UdemyMaxCourse Notes](https://github.com/NavinNavi19/Angular-7-formerly-Angular-2---The-Complete-Guide)
+
+[Table of Contents](#toc)
 
 ---
 
