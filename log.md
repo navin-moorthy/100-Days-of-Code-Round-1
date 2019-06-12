@@ -126,7 +126,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:
 
-- Learned about NgRx Store in Recipe Section and Store Devtools to Monitor the state in browser.
+- Learned about NgRx Store in Recipe Section and Store Dev-tools to Monitor the state in browser.
 
 #### Link to Work: [Angular7UdemyMaxCourse Notes](https://github.com/NavinNavi19/Angular-7-formerly-Angular-2---The-Complete-Guide)
 
