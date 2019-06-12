@@ -111,7 +111,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:
 
-- Worked on a new logo to my site and a  fresh new look design.
+- Worked on new logo to my site and a  fresh new look design.
 
 #### Link to Work: [CodePen Logo Design Animated](https://codepen.io/navinnavi19/pen/qwgMZM)
 
