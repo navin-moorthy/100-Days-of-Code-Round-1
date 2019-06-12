@@ -84,6 +84,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 | [Day 93](#day-93) **11/04/19** |                 Angular7UdemyMaxCourse                 | [Day 94](#day-94) **19/04/19** |                  Angular7UdemyMaxCourse                   |
 | [Day 95](#day-95) **22/04/19** |                 Angular7UdemyMaxCourse                 | [Day 96](#day-96) **23/04/19** |                  Angular7UdemyMaxCourse                   |
 | [Day 97](#day-97) **24/04/19** |                 Angular7UdemyMaxCourse                 | [Day 98](#day-98) **25/04/19** |                  Angular7UdemyMaxCourse                   |
+| [Day 99](#day-99) **26/04/19** |                 Angular7UdemyMaxCourse                 | [Day 100](#day-100) **27/04/19** |                  New Blog Design                   |
 
 <!-- ---
 <a name="day-"></a>
@@ -99,6 +100,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Thoughts:
 
 [Table of Contents](#toc) -->
+
+---
+
+<a name="day-100"></a>
+
+## Day 100: April-27th-2019
+
+#### Today's Focus: New Blog Design
+
+#### Completed:
+
+- Worked on a new logo to my site and a  fresh new look design.
+
+#### Link to Work: [CodePen Logo Design Animated](https://codepen.io/navinnavi19/pen/qwgMZM)
+
+[Table of Contents](#toc)
+
+---
+
+<a name="day-99"></a>
+
+## Day 99: April-28th-2019
+
+#### Today's Focus: Angular7UdemyMaxCourse
+
+#### Completed:
+
+- Completed the Udemy Angular Course So much learned in this Course and I am going to practise this in my blog with this knowledge
+
+#### Link to Work: [Angular7UdemyMaxCourse Notes](https://github.com/NavinNavi19/Angular-7-formerly-Angular-2---The-Complete-Guide)
+
+[Table of Contents](#toc)
 
 ---
 
