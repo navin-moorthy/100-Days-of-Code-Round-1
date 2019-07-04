@@ -33,58 +33,58 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ### Table of Contents
 
-|            **Day**             |                       **Focus**                        |            **Day**             |                         **Focus**                         |
-| :----------------------------: | :----------------------------------------------------: | :----------------------------: | :-------------------------------------------------------: |
-|  [Day 1](#day-1) **04/01/19**  |       Learn Markdown and bring up the Repo site        |  [Day 2](#day-2) **05/01/19**  |            Automation In my Web Server Part 1             |
-|  [Day 3](#day-3) **06/01/19**  |           Automation In my Web Server Part 2           |  [Day 4](#day-4) **07/01/19**  |  Learn-Website-Hacking-Penetration-Testing-From-Scratch   |
-|  [Day 5](#day-5) **08/01/19**  |                   Virtual Lab Setup                    |  [Day 6](#day-6) **09/01/19**  |                       Pico CTF 2017                       |
-|  [Day 7](#day-7) **10/01/19**  |                     Pico CTF 2017                      |  [Day 8](#day-8) **11/01/19**  |                       Pico CTF 2017                       |
-|  [Day 9](#day-9) **12/01/19**  |                        Busy Day                        | [Day 10](#day-10) **13/01/19** |                       Pico CTF 2017                       |
-| [Day 11](#day-11) **14/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch | [Day 12](#day-12) **15/01/19** |  Learn-Website-Hacking-Penetration-Testing-From-Scratch   |
-| [Day 13](#day-13) **16/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch | [Day 14](#day-14) **17/01/19** |                       Pico CTF 2017                       |
-| [Day 15](#day-15) **18/01/19** |                     Pico CTF 2017                      | [Day 16](#day-16) **19/01/19** |                       Pico CTF 2017                       |
-| [Day 17](#day-17) **20/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch | [Day 18](#day-18) **21/01/19** |               Quality of life Improvements                |
-| [Day 19](#day-19) **22/01/19** |      The Web Developer Bootcamp - Till Bootstrap       | [Day 20](#day-20) **23/01/19** | The Web Developer Bootcamp - Till Javascript last project |
-| [Day 21](#day-21) **24/01/19** |          The Web Developer Bootcamp - jQuery           | [Day 22](#day-22) **25/01/19** |            The Web Developer Bootcamp - jQuery            |
-| [Day 23](#day-23) **26/01/19** |      The Web Developer Bootcamp - Advanced jQuery      | [Day 24](#day-24) **27/01/19** |  The Web Developer Bootcamp - jQuery - ToDo List Project  |
-| [Day 25](#day-25) **28/01/19** |             VANUSS - 2nd Post Preparation              | [Day 26](#day-26) **29/01/19** |             VANUSS - Improvements to the site             |
-| [Day 27](#day-27) **30/01/19** |       VANUSS - Git Auto deployment using webhook       | [Day 28](#day-28) **31/01/19** |  The Web Developer Bootcamp - jQuery - ToDo List Project  |
-| [Day 29](#day-29) **01/02/19** |   The Web Developer Bootcamp - Patatap Clone Project   | [Day 30](#day-30) **02/02/19** |       The Web Developer Bootcamp - Intro to Backend       |
-| [Day 31](#day-31) **03/02/19** |   The Web Developer Bootcamp - Intro to Node and NPM   | [Day 32](#day-32) **04/02/19** |                       Pico CTF 2017                       |
-| [Day 33](#day-33) **05/02/19** |                     Pico CTF 2017                      | [Day 34](#day-34) **06/02/19** |                       Pico CTF 2017                       |
-| [Day 35](#day-35) **07/02/19** |                     Pico CTF 2017                      | [Day 36](#day-36) **08/02/19** |                       Pico CTF 2017                       |
-| [Day 37](#day-37) **09/02/19** |                     Pico CTF 2017                      | [Day 38](#day-38) **12/02/19** |                       Pico CTF 2017                       |
-| [Day 39](#day-39) **13/02/19** |                     Pico CTF 2017                      | [Day 40](#day-40) **14/02/19** |                       Pico CTF 2017                       |
-| [Day 41](#day-41) **15/02/19** |                     Pico CTF 2017                      | [Day 42](#day-42) **16/02/19** |                       Pico CTF 2017                       |
-| [Day 43](#day-43) **17/02/19** |                  Pico CTF 2017 Recap                   | [Day 44](#day-44) **18/02/19** |       The Web Developer Bootcamp - Intro to Express       |
-| [Day 45](#day-45) **19/02/19** |   The Web Developer Bootcamp - Intermediate Express    | [Day 46](#day-46) **20/02/19** |         The Web Developer Bootcamp - Intro to API         |
-| [Day 47](#day-47) **21/02/19** |      The Web Developer Bootcamp - YelpCamp Basics      | [Day 48](#day-48) **22/02/19** |           The Web Developer Bootcamp - Mongo DB           |
-| [Day 49](#day-49) **23/02/19** | The Web Developer Bootcamp - YelpCamp Data Persistence | [Day 50](#day-50) **24/02/19** |        The Web Developer Bootcamp - RESTful Routes        |
-| [Day 51](#day-51) **25/02/19** |     The Web Developer Bootcamp - Data Associations     | [Day 52](#day-52) **26/02/19** | The Web Developer Bootcamp - Comments and Authentications |
-| [Day 53](#day-53) **27/02/19** |    The Web Developer Bootcamp - Update and Destroy     | [Day 54](#day-54) **28/02/19** |       The Web Developer Bootcamp - UI Improvements        |
-| [Day 55](#day-55) **01/03/19** |     The Web Developer Bootcamp - Heroku Deployment     | [Day 56](#day-56) **02/03/19** |    The Web Developer Bootcamp - Added Functionalities     |
-| [Day 57](#day-57) **03/03/19** |   The Web Developer Bootcamp - Added Functionalities   | [Day 58](#day-58) **04/03/19** |              Code With Node: Journey Started              |
-| [Day 59](#day-59) **05/03/19** |           Code With Node: Routes Configured            | [Day 60](#day-60) **06/03/19** |                        Node Basics                        |
-| [Day 61](#day-61) **07/03/19** |                    Node Async/await                    | [Day 62](#day-62) **11/03/19** |                    Node Global Objects                    |
-| [Day 63](#day-63) **12/03/19** |                    Node Web Module                     | [Day 64](#day-64) **13/03/19** |                       Node Express                        |
-| [Day 65](#day-65) **14/03/19** |        Code With Node: Cloudinary Image Upload         | [Day 66](#day-66) **15/03/19** |                      Node with mysql                      |
-| [Day 67](#day-67) **16/03/19** |                    Personal Project                    | [Day 68](#day-68) **17/03/19** |                     Personal Project                      |
-| [Day 69](#day-69) **18/03/19** |                    Personal Project                    | [Day 70](#day-70) **19/03/19** |        Server-Client Socket based Chat Application        |
-| [Day 71](#day-71) **20/03/19** |                    Personal Project                    | [Day 72](#day-72) **21/03/19** |                     Personal Project                      |
-| [Day 73](#day-73) **22/03/19** |                    Personal Project                    | [Day 74](#day-74) **23/03/19** |                     Personal Project                      |
-| [Day 75](#day-75) **24/03/19** |                    Personal Project                    | [Day 76](#day-76) **25/03/19** |                     Personal Project                      |
-| [Day 77](#day-77) **26/03/19** |                    Personal Project                    | [Day 78](#day-78) **27/03/19** |                     Personal Project                      |
-| [Day 79](#day-79) **28/03/19** |                    Personal Project                    | [Day 80](#day-80) **29/03/19** |                     Personal Project                      |
-| [Day 81](#day-81) **30/03/19** |                    Personal Project                    | [Day 82](#day-82) **31/03/19** |                 DayOffSomeJavascriptPosts                 |
-| [Day 83](#day-83) **01/04/19** |                 AngularMEANUdmeyCourse                 | [Day 84](#day-84) **02/04/19** |                  AngularMEANUdmeyCourse                   |
-| [Day 85](#day-85) **03/04/19** |                 AngularMEANUdmeyCourse                 | [Day 86](#day-86) **04/04/19** |                  AngularMEANUdmeyCourse                   |
-| [Day 87](#day-87) **05/04/19** |                 AngularMEANUdmeyCourse                 | [Day 88](#day-88) **06/04/19** |                   AJAX JQUERY ToDo List                   |
-| [Day 89](#day-89) **07/04/19** |                 AJAX JQUERY ToDo List                  | [Day 90](#day-90) **08/04/19** |                   AJAX JQUERY ToDo List                   |
-| [Day 91](#day-91) **09/04/19** |                 Angular7UdemyMaxCourse                 | [Day 92](#day-92) **10/04/19** |                  Angular7UdemyMaxCourse                   |
-| [Day 93](#day-93) **11/04/19** |                 Angular7UdemyMaxCourse                 | [Day 94](#day-94) **19/04/19** |                  Angular7UdemyMaxCourse                   |
-| [Day 95](#day-95) **22/04/19** |                 Angular7UdemyMaxCourse                 | [Day 96](#day-96) **23/04/19** |                  Angular7UdemyMaxCourse                   |
-| [Day 97](#day-97) **24/04/19** |                 Angular7UdemyMaxCourse                 | [Day 98](#day-98) **25/04/19** |                  Angular7UdemyMaxCourse                   |
-| [Day 99](#day-99) **26/04/19** |                 Angular7UdemyMaxCourse                 | [Day 100](#day-100) **27/04/19** |                  New Blog Design                   |
+|            **Day**             |                       **Focus**                        |             **Day**              |                         **Focus**                         |
+| :----------------------------: | :----------------------------------------------------: | :------------------------------: | :-------------------------------------------------------: |
+|  [Day 1](#day-1) **04/01/19**  |       Learn Markdown and bring up the Repo site        |   [Day 2](#day-2) **05/01/19**   |            Automation In my Web Server Part 1             |
+|  [Day 3](#day-3) **06/01/19**  |           Automation In my Web Server Part 2           |   [Day 4](#day-4) **07/01/19**   |  Learn-Website-Hacking-Penetration-Testing-From-Scratch   |
+|  [Day 5](#day-5) **08/01/19**  |                   Virtual Lab Setup                    |   [Day 6](#day-6) **09/01/19**   |                       Pico CTF 2017                       |
+|  [Day 7](#day-7) **10/01/19**  |                     Pico CTF 2017                      |   [Day 8](#day-8) **11/01/19**   |                       Pico CTF 2017                       |
+|  [Day 9](#day-9) **12/01/19**  |                        Busy Day                        |  [Day 10](#day-10) **13/01/19**  |                       Pico CTF 2017                       |
+| [Day 11](#day-11) **14/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch |  [Day 12](#day-12) **15/01/19**  |  Learn-Website-Hacking-Penetration-Testing-From-Scratch   |
+| [Day 13](#day-13) **16/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch |  [Day 14](#day-14) **17/01/19**  |                       Pico CTF 2017                       |
+| [Day 15](#day-15) **18/01/19** |                     Pico CTF 2017                      |  [Day 16](#day-16) **19/01/19**  |                       Pico CTF 2017                       |
+| [Day 17](#day-17) **20/01/19** | Learn-Website-Hacking-Penetration-Testing-From-Scratch |  [Day 18](#day-18) **21/01/19**  |               Quality of life Improvements                |
+| [Day 19](#day-19) **22/01/19** |      The Web Developer Bootcamp - Till Bootstrap       |  [Day 20](#day-20) **23/01/19**  | The Web Developer Bootcamp - Till Javascript last project |
+| [Day 21](#day-21) **24/01/19** |          The Web Developer Bootcamp - jQuery           |  [Day 22](#day-22) **25/01/19**  |            The Web Developer Bootcamp - jQuery            |
+| [Day 23](#day-23) **26/01/19** |      The Web Developer Bootcamp - Advanced jQuery      |  [Day 24](#day-24) **27/01/19**  |  The Web Developer Bootcamp - jQuery - ToDo List Project  |
+| [Day 25](#day-25) **28/01/19** |             VANUSS - 2nd Post Preparation              |  [Day 26](#day-26) **29/01/19**  |             VANUSS - Improvements to the site             |
+| [Day 27](#day-27) **30/01/19** |       VANUSS - Git Auto deployment using webhook       |  [Day 28](#day-28) **31/01/19**  |  The Web Developer Bootcamp - jQuery - ToDo List Project  |
+| [Day 29](#day-29) **01/02/19** |   The Web Developer Bootcamp - Patatap Clone Project   |  [Day 30](#day-30) **02/02/19**  |       The Web Developer Bootcamp - Intro to Backend       |
+| [Day 31](#day-31) **03/02/19** |   The Web Developer Bootcamp - Intro to Node and NPM   |  [Day 32](#day-32) **04/02/19**  |                       Pico CTF 2017                       |
+| [Day 33](#day-33) **05/02/19** |                     Pico CTF 2017                      |  [Day 34](#day-34) **06/02/19**  |                       Pico CTF 2017                       |
+| [Day 35](#day-35) **07/02/19** |                     Pico CTF 2017                      |  [Day 36](#day-36) **08/02/19**  |                       Pico CTF 2017                       |
+| [Day 37](#day-37) **09/02/19** |                     Pico CTF 2017                      |  [Day 38](#day-38) **12/02/19**  |                       Pico CTF 2017                       |
+| [Day 39](#day-39) **13/02/19** |                     Pico CTF 2017                      |  [Day 40](#day-40) **14/02/19**  |                       Pico CTF 2017                       |
+| [Day 41](#day-41) **15/02/19** |                     Pico CTF 2017                      |  [Day 42](#day-42) **16/02/19**  |                       Pico CTF 2017                       |
+| [Day 43](#day-43) **17/02/19** |                  Pico CTF 2017 Recap                   |  [Day 44](#day-44) **18/02/19**  |       The Web Developer Bootcamp - Intro to Express       |
+| [Day 45](#day-45) **19/02/19** |   The Web Developer Bootcamp - Intermediate Express    |  [Day 46](#day-46) **20/02/19**  |         The Web Developer Bootcamp - Intro to API         |
+| [Day 47](#day-47) **21/02/19** |      The Web Developer Bootcamp - YelpCamp Basics      |  [Day 48](#day-48) **22/02/19**  |           The Web Developer Bootcamp - Mongo DB           |
+| [Day 49](#day-49) **23/02/19** | The Web Developer Bootcamp - YelpCamp Data Persistence |  [Day 50](#day-50) **24/02/19**  |        The Web Developer Bootcamp - RESTful Routes        |
+| [Day 51](#day-51) **25/02/19** |     The Web Developer Bootcamp - Data Associations     |  [Day 52](#day-52) **26/02/19**  | The Web Developer Bootcamp - Comments and Authentications |
+| [Day 53](#day-53) **27/02/19** |    The Web Developer Bootcamp - Update and Destroy     |  [Day 54](#day-54) **28/02/19**  |       The Web Developer Bootcamp - UI Improvements        |
+| [Day 55](#day-55) **01/03/19** |     The Web Developer Bootcamp - Heroku Deployment     |  [Day 56](#day-56) **02/03/19**  |    The Web Developer Bootcamp - Added Functionalities     |
+| [Day 57](#day-57) **03/03/19** |   The Web Developer Bootcamp - Added Functionalities   |  [Day 58](#day-58) **04/03/19**  |              Code With Node: Journey Started              |
+| [Day 59](#day-59) **05/03/19** |           Code With Node: Routes Configured            |  [Day 60](#day-60) **06/03/19**  |                        Node Basics                        |
+| [Day 61](#day-61) **07/03/19** |                    Node Async/await                    |  [Day 62](#day-62) **11/03/19**  |                    Node Global Objects                    |
+| [Day 63](#day-63) **12/03/19** |                    Node Web Module                     |  [Day 64](#day-64) **13/03/19**  |                       Node Express                        |
+| [Day 65](#day-65) **14/03/19** |        Code With Node: Cloudinary Image Upload         |  [Day 66](#day-66) **15/03/19**  |                      Node with mysql                      |
+| [Day 67](#day-67) **16/03/19** |                    Personal Project                    |  [Day 68](#day-68) **17/03/19**  |                     Personal Project                      |
+| [Day 69](#day-69) **18/03/19** |                    Personal Project                    |  [Day 70](#day-70) **19/03/19**  |        Server-Client Socket based Chat Application        |
+| [Day 71](#day-71) **20/03/19** |                    Personal Project                    |  [Day 72](#day-72) **21/03/19**  |                     Personal Project                      |
+| [Day 73](#day-73) **22/03/19** |                    Personal Project                    |  [Day 74](#day-74) **23/03/19**  |                     Personal Project                      |
+| [Day 75](#day-75) **24/03/19** |                    Personal Project                    |  [Day 76](#day-76) **25/03/19**  |                     Personal Project                      |
+| [Day 77](#day-77) **26/03/19** |                    Personal Project                    |  [Day 78](#day-78) **27/03/19**  |                     Personal Project                      |
+| [Day 79](#day-79) **28/03/19** |                    Personal Project                    |  [Day 80](#day-80) **29/03/19**  |                     Personal Project                      |
+| [Day 81](#day-81) **30/03/19** |                    Personal Project                    |  [Day 82](#day-82) **31/03/19**  |                 DayOffSomeJavascriptPosts                 |
+| [Day 83](#day-83) **01/04/19** |                 AngularMEANUdmeyCourse                 |  [Day 84](#day-84) **02/04/19**  |                  AngularMEANUdmeyCourse                   |
+| [Day 85](#day-85) **03/04/19** |                 AngularMEANUdmeyCourse                 |  [Day 86](#day-86) **04/04/19**  |                  AngularMEANUdmeyCourse                   |
+| [Day 87](#day-87) **05/04/19** |                 AngularMEANUdmeyCourse                 |  [Day 88](#day-88) **06/04/19**  |                   AJAX JQUERY ToDo List                   |
+| [Day 89](#day-89) **07/04/19** |                 AJAX JQUERY ToDo List                  |  [Day 90](#day-90) **08/04/19**  |                   AJAX JQUERY ToDo List                   |
+| [Day 91](#day-91) **09/04/19** |                 Angular7UdemyMaxCourse                 |  [Day 92](#day-92) **10/04/19**  |                  Angular7UdemyMaxCourse                   |
+| [Day 93](#day-93) **11/04/19** |                 Angular7UdemyMaxCourse                 |  [Day 94](#day-94) **19/04/19**  |                  Angular7UdemyMaxCourse                   |
+| [Day 95](#day-95) **22/04/19** |                 Angular7UdemyMaxCourse                 |  [Day 96](#day-96) **23/04/19**  |                  Angular7UdemyMaxCourse                   |
+| [Day 97](#day-97) **24/04/19** |                 Angular7UdemyMaxCourse                 |  [Day 98](#day-98) **25/04/19**  |                  Angular7UdemyMaxCourse                   |
+| [Day 99](#day-99) **26/04/19** |                 Angular7UdemyMaxCourse                 | [Day 100](#day-100) **27/04/19** |                      New Blog Design                      |
 
 <!-- ---
 <a name="day-"></a>
@@ -111,7 +111,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 #### Completed:
 
-- Worked on new logo to my site and a  fresh new look design.
+- Worked on new logo to my site and a fresh new look design.
 
 #### Link to Work: [CodePen Logo Design Animated](https://codepen.io/navinnavi19/pen/qwgMZM)
 
@@ -805,7 +805,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [YelpCamp](https://intense-ravine-52214.herokuapp.com)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_56%23100DoC.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_56%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -843,7 +843,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/38_YelpCamp:%20UI%20Improvements)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_54%23100DoC.gif"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_54%23100DoC.gif"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -865,7 +865,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/37_YelpCamp:%20Update%20and%20Destroy)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_53%23100DoC.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_53%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -886,7 +886,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/34_Authentication)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_52%23100DoC.PNG"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_52%23100DoC.PNG"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -907,7 +907,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/32_Data%20Associations)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_51%23100DoC..PNG"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_51%23100DoC..PNG"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -927,7 +927,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/31_RESTful_Routing)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_50%23100DoC.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_50%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -948,7 +948,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/30_YelpCamp:%20Data%20Persistence)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_49%23100DoC.gif"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_49%23100DoC.gif"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -969,7 +969,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/29_Databases)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_48%23100DoC.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_48%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -990,11 +990,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/28_YelpCamp_Basics)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_47%23100DoC-1.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_47%23100DoC-1.jpg"></kbd>
 </p>
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_47%23100DoC-2.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_47%23100DoC-2.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1015,7 +1015,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/26_Intermidate%20Express)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_46%23100DoC.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_46%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1035,7 +1035,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/blob/master/Notes/26_Intermidate%20Express)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_45%23100DoC.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_45%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1055,7 +1055,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [The-Web-Developer-Bootcamp-Github](https://github.com/NavinNavi19/The-Web-Developer-Bootcamp/tree/master/Notes/25_Server%20Side%20Frameworks)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_44%23100DoC.PNG"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_44%23100DoC.PNG"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1091,15 +1091,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_42%23100DoC_1.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_42%23100DoC_1.jpg"></kbd>
 </p>
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_42%23100DoC_2.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_42%23100DoC_2.jpg"></kbd>
 </p>
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_42%23100DoC_3.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_42%23100DoC_3.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1119,11 +1119,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_41%23100DoC.PNG"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_41%23100DoC.PNG"></kbd>
 </p>
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_41%23100DoC.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_41%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1144,7 +1144,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_40%23100DoC.PNG"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_40%23100DoC.PNG"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1165,11 +1165,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/%23100DayOfCode_Day39.PNG"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/%23100DayOfCode_Day39.PNG"></kbd>
 </p>
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/Day_39%23100DoC.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/Day_39%23100DoC.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1189,7 +1189,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 #### Link to Work: [Pico-CTF-2017-Write-Up](https://github.com/NavinNavi19/Pico-CTF-2017-Write-Up)
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/%23100DayOfCode_Day38.PNG"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/%23100DayOfCode_Day38.PNG"></kbd>
 </p>
 
 [Table of Contents](#toc)
@@ -1856,11 +1856,11 @@ After some testing with my [**Template Repo**](https://navinnavi19.github.io/Col
 **Day 1 Overview of Images**
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/nn-100doc-d1-1.PNG"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/nn-100doc-d1-1.PNG"></kbd>
 </p>
 
 <p align="center">
-<kbd><img src="https://github.com/NavinNavi19/100-Days-of-Code/blob/master/images/nn-100doc-d1-2.jpg"></kbd>
+<kbd><img src="https://raw.githubusercontent.com/navin-navi/100-Days-of-Code-Round-1/master/images/nn-100doc-d1-2.jpg"></kbd>
 </p>
 
 [Table of Contents](#toc)
